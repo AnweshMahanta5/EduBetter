@@ -1,0 +1,60 @@
+{
+  "appName": "EduBetter",
+  "homeLabel": "Home",
+  "resources": "Resources",
+  "scholarships": "Scholarships",
+  "help": "Help",
+  "language": "Language",
+  "open": "Open",
+  "apply": "Apply",
+  "checkEligibility": "Check detailed eligibility",
+  "addToCalendar": "Add deadline to calendar",
+  "backToList": "Back to list",
+  "homeBtn": "Home",
+  "resourcesSubtitle": "Pick a board to browse books by class and language.",
+  "cbse": "CBSE",
+  "icse": "ICSE",
+  "stateBoard": "State Board",
+  "state": "State",
+  "class": "Class",
+  "board": "Board",
+  "english": "English",
+  "hindi": "Hindi",
+  "comingSoon": "Resources coming soon.",
+  "whoIsThisFor": "Who is this for?",
+  "documentsRequired": "Documents required",
+  "deadline": "Deadline",
+  "notSpecified": "Not specified",
+  "changeDetails": "Change details",
+  "showingFor": "Showing results for",
+  "pageNotFound": "Page not found.",
+  "noMatches": "No matching scholarships yet. Try different details.",
+  "allIndia": "All India",
+
+  "onboarding": {
+    "title": "Let’s find scholarships for you",
+    "classLabel": "Class",
+    "boardLabel": "Board",
+    "stateLabel": "State / UT",
+    "continue": "Continue"
+  },
+
+  "home": {
+    "heroTitle": "EduBetter — Bridge the learning gap",
+    "heroSubtitle": "Find scholarships that fit you and download free textbooks for your board and class.",
+    "cards": {
+      "matcher": {
+        "title": "Scholarship Matcher",
+        "desc": "Short form (class, board, state) → filters to relevant schemes."
+      },
+      "books": {
+        "title": "Books in Local Languages",
+        "desc": "CBSE, ICSE, and State Boards — English & Hindi (more soon)."
+      },
+      "ui": {
+        "title": "Simple, Mobile-first UI",
+        "desc": "Clear navigation, large buttons, and offline-friendly links."
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "class": 1,
+    "languages": {
+      "en": [
+        {
+          "title": "Textbooks Portal / Official Site",
+          "url": "https://bseh.org.in/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "पाठ्यपुस्तक पोर्टल / आधिकारिक साइट",
+          "url": "https://bseh.org.in/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 10,
+    "languages": {
+      "en": [
+        {
+          "title": "Class 10 Resources (Official)",
+          "url": "https://bseh.org.in/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "कक्षा 10 संसाधन (आधिकारिक)",
+          "url": "https://bseh.org.in/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 12,
+    "languages": {
+      "en": [
+        {
+          "title": "Class 12 Resources (Official)",
+          "url": "https://bseh.org.in/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "कक्षा 12 संसाधन (आधिकारिक)",
+          "url": "https://bseh.org.in/"
+        }
+      ]
+    }
+  }
+]

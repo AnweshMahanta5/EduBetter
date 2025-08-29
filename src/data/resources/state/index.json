@@ -1,0 +1,92 @@
+{
+  "states": [
+    {
+      "code": "UP",
+      "name": "Uttar Pradesh (UPMSP)"
+    },
+    {
+      "code": "MH",
+      "name": "Maharashtra (MSBSHSE / Balbharati)"
+    },
+    {
+      "code": "RJ",
+      "name": "Rajasthan (RBSE)"
+    },
+    {
+      "code": "GJ",
+      "name": "Gujarat (GSEB / GCERT)"
+    },
+    {
+      "code": "WB",
+      "name": "West Bengal (WBBSE / WBCHSE)"
+    },
+    {
+      "code": "JH",
+      "name": "Jharkhand (JAC)"
+    },
+    {
+      "code": "OD",
+      "name": "Odisha (BSE / CHSE)"
+    },
+    {
+      "code": "TN",
+      "name": "Tamil Nadu (TN Textbook & Edu Services)"
+    },
+    {
+      "code": "KA",
+      "name": "Karnataka (KSEAB / DSERT)"
+    },
+    {
+      "code": "KL",
+      "name": "Kerala (SCERT)"
+    },
+    {
+      "code": "AP",
+      "name": "Andhra Pradesh (SCERT AP)"
+    },
+    {
+      "code": "TS",
+      "name": "Telangana (SCERT TS)"
+    },
+    {
+      "code": "BR",
+      "name": "Bihar (BSEB)"
+    },
+    {
+      "code": "MP",
+      "name": "Madhya Pradesh (MPBSE)"
+    },
+    {
+      "code": "CG",
+      "name": "Chhattisgarh (CGBSE / SCERT)"
+    },
+    {
+      "code": "PB",
+      "name": "Punjab (PSEB)"
+    },
+    {
+      "code": "HR",
+      "name": "Haryana (HBSE)"
+    },
+    {
+      "code": "DL",
+      "name": "Delhi (DoE / SCERT)"
+    },
+    {
+      "code": "AS",
+      "name": "Assam (SEBA / AHSEC)"
+    },
+    {
+      "code": "UK",
+      "name": "Uttarakhand (UBSE)"
+    },
+    {
+      "code": "HP",
+      "name": "Himachal Pradesh (HPBOSE)"
+    },
+    {
+      "code": "JK",
+      "name": "Jammu & Kashmir (JKBOSE)"
+    }
+  ]
+}

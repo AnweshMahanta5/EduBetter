@@ -1,0 +1,408 @@
+{
+  "generated_at": "2025-08-27T17:41:59.493323Z",
+  "notes": "Some regions primarily use CBSE; boards list may be empty. Fill official resource links per board as you expand.",
+  "states_and_uts": [
+    {
+      "region": "Andhra Pradesh",
+      "code": "AP",
+      "boards": [
+        {
+          "id": "BSEAP",
+          "name": "Board of Secondary Education, Andhra Pradesh",
+          "level": "10"
+        },
+        {
+          "id": "BIEAP",
+          "name": "Board of Intermediate Education, Andhra Pradesh",
+          "level": "12"
+        }
+      ]
+    },
+    {
+      "region": "Arunachal Pradesh",
+      "code": "AR",
+      "cbse_majority": true,
+      "boards": []
+    },
+    {
+      "region": "Assam",
+      "code": "AS",
+      "boards": [
+        {
+          "id": "SEBA",
+          "name": "Board of Secondary Education, Assam",
+          "level": "10"
+        },
+        {
+          "id": "AHSEC",
+          "name": "Assam Higher Secondary Education Council",
+          "level": "12"
+        }
+      ]
+    },
+    {
+      "region": "Bihar",
+      "code": "BR",
+      "boards": [
+        {
+          "id": "BSEB",
+          "name": "Bihar School Examination Board",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Chhattisgarh",
+      "code": "CG",
+      "boards": [
+        {
+          "id": "CGBSE",
+          "name": "Chhattisgarh Board of Secondary Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Goa",
+      "code": "GA",
+      "boards": [
+        {
+          "id": "GBSHSE",
+          "name": "Goa Board of Secondary and Higher Secondary Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Gujarat",
+      "code": "GJ",
+      "boards": [
+        {
+          "id": "GSEB",
+          "name": "Gujarat Secondary and Higher Secondary Education Board",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Haryana",
+      "code": "HR",
+      "boards": [
+        {
+          "id": "HBSE",
+          "name": "Board of School Education, Haryana",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Himachal Pradesh",
+      "code": "HP",
+      "boards": [
+        {
+          "id": "HPBOSE",
+          "name": "Himachal Pradesh Board of School Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Jharkhand",
+      "code": "JH",
+      "boards": [
+        {
+          "id": "JAC",
+          "name": "Jharkhand Academic Council",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Karnataka",
+      "code": "KA",
+      "boards": [
+        {
+          "id": "KSEAB",
+          "name": "Karnataka School Examination and Assessment Board",
+          "level": "10"
+        },
+        {
+          "id": "DPUE",
+          "name": "Department of Pre-University Education, Karnataka",
+          "level": "11/12"
+        }
+      ]
+    },
+    {
+      "region": "Kerala",
+      "code": "KL",
+      "boards": [
+        {
+          "id": "KBPE",
+          "name": "Kerala Board of Public Examinations (SSLC)",
+          "level": "10"
+        },
+        {
+          "id": "DHSE",
+          "name": "Directorate of Higher Secondary Education, Kerala",
+          "level": "11/12"
+        }
+      ]
+    },
+    {
+      "region": "Madhya Pradesh",
+      "code": "MP",
+      "boards": [
+        {
+          "id": "MPBSE",
+          "name": "Madhya Pradesh Board of Secondary Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Maharashtra",
+      "code": "MH",
+      "boards": [
+        {
+          "id": "MSBSHSE",
+          "name": "Maharashtra State Board of Secondary & Higher Secondary Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Manipur",
+      "code": "MN",
+      "boards": [
+        {
+          "id": "BOSEM",
+          "name": "Board of Secondary Education, Manipur",
+          "level": "10"
+        },
+        {
+          "id": "COHSEM",
+          "name": "Council of Higher Secondary Education, Manipur",
+          "level": "11/12"
+        }
+      ]
+    },
+    {
+      "region": "Meghalaya",
+      "code": "ML",
+      "boards": [
+        {
+          "id": "MBOSE",
+          "name": "Meghalaya Board of School Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Mizoram",
+      "code": "MZ",
+      "boards": [
+        {
+          "id": "MBSE",
+          "name": "Mizoram Board of School Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Nagaland",
+      "code": "NL",
+      "boards": [
+        {
+          "id": "NBSE",
+          "name": "Nagaland Board of School Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Odisha",
+      "code": "OD",
+      "boards": [
+        {
+          "id": "BSEOD",
+          "name": "Board of Secondary Education, Odisha",
+          "level": "10"
+        },
+        {
+          "id": "CHSEOD",
+          "name": "Council of Higher Secondary Education, Odisha",
+          "level": "11/12"
+        }
+      ]
+    },
+    {
+      "region": "Punjab",
+      "code": "PB",
+      "boards": [
+        {
+          "id": "PSEB",
+          "name": "Punjab School Education Board",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Rajasthan",
+      "code": "RJ",
+      "boards": [
+        {
+          "id": "RBSE",
+          "name": "Board of Secondary Education, Rajasthan",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Sikkim",
+      "code": "SK",
+      "cbse_majority": true,
+      "boards": []
+    },
+    {
+      "region": "Tamil Nadu",
+      "code": "TN",
+      "boards": [
+        {
+          "id": "TNDGE",
+          "name": "Tamil Nadu Board (DGE/SSLC & HSC)",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Telangana",
+      "code": "TS",
+      "boards": [
+        {
+          "id": "BSETS",
+          "name": "Board of Secondary Education, Telangana",
+          "level": "10"
+        },
+        {
+          "id": "TSBIE",
+          "name": "Telangana State Board of Intermediate Education",
+          "level": "11/12"
+        }
+      ]
+    },
+    {
+      "region": "Tripura",
+      "code": "TR",
+      "boards": [
+        {
+          "id": "TBSE",
+          "name": "Tripura Board of Secondary Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Uttar Pradesh",
+      "code": "UP",
+      "boards": [
+        {
+          "id": "UPMSP",
+          "name": "Uttar Pradesh Madhyamik Shiksha Parishad",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Uttarakhand",
+      "code": "UK",
+      "boards": [
+        {
+          "id": "UBSE",
+          "name": "Uttarakhand Board of School Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "West Bengal",
+      "code": "WB",
+      "boards": [
+        {
+          "id": "WBBSE",
+          "name": "West Bengal Board of Secondary Education",
+          "level": "10"
+        },
+        {
+          "id": "WBCHSE",
+          "name": "West Bengal Council of Higher Secondary Education",
+          "level": "11/12"
+        }
+      ]
+    },
+    {
+      "region": "Andaman & Nicobar Islands",
+      "code": "AN",
+      "cbse_majority": true,
+      "boards": []
+    },
+    {
+      "region": "Chandigarh",
+      "code": "CH",
+      "cbse_majority": true,
+      "boards": []
+    },
+    {
+      "region": "Dadra & Nagar Haveli and Daman & Diu",
+      "code": "DNHDD",
+      "cbse_majority": true,
+      "boards": []
+    },
+    {
+      "region": "Delhi (NCT)",
+      "code": "DL",
+      "boards": [
+        {
+          "id": "CBSE",
+          "name": "Central Board of Secondary Education (primary board in Delhi)",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Jammu & Kashmir",
+      "code": "JK",
+      "boards": [
+        {
+          "id": "JKBOSE",
+          "name": "Jammu and Kashmir Board of School Education",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Ladakh",
+      "code": "LA",
+      "cbse_majority": true,
+      "boards": [
+        {
+          "id": "JKBOSE",
+          "name": "J&K BOSE (followed in many schools)",
+          "level": "10/12"
+        }
+      ]
+    },
+    {
+      "region": "Lakshadweep",
+      "code": "LD",
+      "cbse_majority": true,
+      "boards": []
+    },
+    {
+      "region": "Puducherry",
+      "code": "PY",
+      "cbse_majority": true,
+      "boards": []
+    }
+  ]
+}

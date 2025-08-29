@@ -1,0 +1,862 @@
+[
+  {
+    "class": 1,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Environmental Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 2,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Environmental Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 3,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Environmental Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 4,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Environmental Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 5,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Environmental Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 6,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Hindi",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History & Civics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "हिन्दी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास और नागरिक शास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 7,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Hindi",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History & Civics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "हिन्दी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास और नागरिक शास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 8,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Hindi",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History & Civics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Studies",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "हिन्दी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास और नागरिक शास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर अध्ययन",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 9,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language & Literature",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Hindi (Second Language)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Physics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Biology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History & Civics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Applications",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Commercial Studies",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Economic Applications",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी भाषा एवं साहित्य",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "हिन्दी (द्वितीय भाषा)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भौतिकी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "रसायन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "जीवविज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास और नागरिक शास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर अनुप्रयोग",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "वाणिज्य अध्ययन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "आर्थिक अनुप्रयोग",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 10,
+    "languages": {
+      "en": [
+        {
+          "title": "English Language & Literature",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Hindi (Second Language)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Physics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Biology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History & Civics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Applications",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Commercial Studies",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Economic Applications",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी भाषा एवं साहित्य",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "हिन्दी (द्वितीय भाषा)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भौतिकी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "रसायन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "जीवविज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास और नागरिक शास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर अनुप्रयोग",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "वाणिज्य अध्ययन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "आर्थिक अनुप्रयोग",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 11,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Second Language (Hindi)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Physics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Biology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Informatics Practices",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Accountancy",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Business Studies",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Economics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Commerce",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Political Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Psychology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Sociology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Physical Education",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "द्वितीय भाषा (हिन्दी)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भौतिकी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "रसायन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "जीवविज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "सूचना प्रौद्योगिकी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "लेखाशास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "व्यवसाय अध्ययन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "अर्थशास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "वाणिज्य",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "राजनीति विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "मनोविज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "समाजशास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "शारीरिक शिक्षा",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  },
+  {
+    "class": 12,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Second Language (Hindi)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Physics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Biology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Computer Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Informatics Practices",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Accountancy",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Business Studies",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Economics",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Commerce",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "History",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Geography",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Political Science",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Psychology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Sociology",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "Physical Education",
+          "url": "https://www.cisce.org/"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "द्वितीय भाषा (हिन्दी)",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "गणित",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भौतिकी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "रसायन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "जीवविज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "कंप्यूटर विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "सूचना प्रौद्योगिकी",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "लेखाशास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "व्यवसाय अध्ययन",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "अर्थशास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "वाणिज्य",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "इतिहास",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "राजनीति विज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "मनोविज्ञान",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "समाजशास्त्र",
+          "url": "https://www.cisce.org/"
+        },
+        {
+          "title": "शारीरिक शिक्षा",
+          "url": "https://www.cisce.org/"
+        }
+      ]
+    }
+  }
+]

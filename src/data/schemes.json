@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "NSP_POST_MATRIC",
+    "title": "National Scholarship Portal — Post Matric Scholarship",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 12 },
+    "income_max": 250000,
+    "categories_any": ["SC", "ST", "OBC", "Minority"],
+    "deadline": "2025-10-31",
+    "benefit": "Covers tuition fees and maintenance allowance",
+    "requires": [
+      "caste_certificate",
+      "income_certificate",
+      "previous_marksheet",
+      "bank_passbook"
+    ],
+    "links": {
+      "apply": "https://scholarships.gov.in/",
+      "official": "https://scholarships.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC/ST/OBC/Minority students (9–12) with income below ₹2,50,000.",
+      "hi": "SC/ST/OBC/अल्पसंख्यक छात्रों के लिए (9–12), आय ₹2,50,000 से कम।"
+    },
+    "source": "NSP",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "NSP_PRE_MATRIC_MINORITY",
+    "title": "NSP Pre-Matric Scholarship (Minorities)",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "income_max": 100000,
+    "categories_any": ["Minority"],
+    "deadline": "2025-09-15",
+    "benefit": "₹500–₹1000 per month stipend + admission fee reimbursement",
+    "requires": [
+      "income_certificate",
+      "community_certificate",
+      "aadhaar",
+      "school_certificate"
+    ],
+    "links": {
+      "apply": "https://scholarships.gov.in/",
+      "official": "https://scholarships.gov.in/"
+    },
+    "summary": {
+      "en": "For Minority community students (1–10) with income below ₹1,00,000.",
+      "hi": "अल्पसंख्यक छात्रों (1–10) हेतु, आय ₹1,00,000 से कम।"
+    },
+    "source": "NSP",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "INSPIRE_SHE",
+    "title": "INSPIRE Scholarship for Higher Education (SHE)",
+    "states": ["IN-*"],
+    "boards": ["CBSE", "ICSE", "STATE"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-08-30",
+    "benefit": "₹80,000 per year up to 5 years",
+    "requires": [
+      "marksheet",
+      "admit_card",
+      "income_certificate",
+      "aadhaar"
+    ],
+    "links": {
+      "apply": "https://online-inspire.gov.in/",
+      "official": "https://online-inspire.gov.in/"
+    },
+    "summary": {
+      "en": "For top 1% board exam students or JEE/NEET merit holders.",
+      "hi": "कक्षा 12 बोर्ड टॉप 1% या JEE/NEET मेधावी छात्रों हेतु।"
+    },
+    "source": "DST",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "KANYASHREE_WB",
+    "title": "Kanyashree Prakalpa (West Bengal)",
+    "states": ["WB"],
+    "boards": ["STATE"],
+    "grades": { "min": 8, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "₹750 annually (K1), ₹25,000 one-time grant (K2)",
+    "requires": [
+      "birth_certificate",
+      "income_certificate",
+      "school_certificate"
+    ],
+    "links": {
+      "apply": "https://wb.gov.in/kanyashree",
+      "official": "https://wb.gov.in/kanyashree"
+    },
+    "summary": {
+      "en": "For unmarried girl students (13–18) from weaker families in West Bengal.",
+      "hi": "पश्चिम बंगाल की अविवाहित कन्याओं (13–18) के लिए।"
+    },
+    "source": "Govt. of WB",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "BALIKA_SAMRIDHI",
+    "title": "Balika Samridhi Yojana",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-12-31",
+    "benefit": "Scholarship up to ₹3000 until Class 10",
+    "requires": [
+      "birth_certificate",
+      "income_certificate",
+      "school_certificate"
+    ],
+    "links": {
+      "apply": "https://wcd.nic.in/",
+      "official": "https://wcd.nic.in/"
+    },
+    "summary": {
+      "en": "For girl children from BPL families born after 1997.",
+      "hi": "1997 के बाद जन्मी BPL परिवार की बालिकाओं हेतु।"
+    },
+    "source": "MoWCD",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "JH_EKALYAN",
+    "title": "Jharkhand e-Kalyan Scholarship",
+    "states": ["JH"],
+    "boards": ["STATE", "CBSE", "ICSE"],
+    "grades": { "min": 9, "max": 12 },
+    "income_max": 250000,
+    "categories_any": ["SC", "ST", "OBC"],
+    "deadline": "2025-08-20",
+    "benefit": "Covers tuition + maintenance allowance",
+    "requires": [
+      "caste_certificate",
+      "income_certificate",
+      "bank_passbook"
+    ],
+    "links": {
+      "apply": "https://ekalyan.cgg.gov.in/",
+      "official": "https://ekalyan.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "For Jharkhand SC/ST/OBC students (9–12) with income below ₹2,50,000.",
+      "hi": "झारखंड SC/ST/OBC छात्रों के लिए (9–12), आय ₹2,50,000 से कम।"
+    },
+    "source": "eKalyan Jharkhand",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "OD_MEDHABRUTI",
+    "title": "Odisha Medhabruti Scholarship",
+    "states": ["OD"],
+    "boards": ["STATE"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-11-01",
+    "benefit": "₹5000 per year",
+    "requires": ["marksheet", "school_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.odisha.gov.in/",
+      "official": "https://scholarship.odisha.gov.in/"
+    },
+    "summary": {
+      "en": "For meritorious higher secondary students of Odisha.",
+      "hi": "ओडिशा के मेधावी उच्च माध्यमिक छात्रों हेतु।"
+    },
+    "source": "Govt. of Odisha",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "UP_POST_MATRIC",
+    "title": "UP Post-Matric Scholarship",
+    "states": ["UP"],
+    "boards": ["STATE"],
+    "grades": { "min": 9, "max": 12 },
+    "income_max": 200000,
+    "categories_any": ["SC", "ST", "OBC", "Minority"],
+    "deadline": "2025-09-10",
+    "benefit": "Full tuition fee + monthly allowance",
+    "requires": [
+      "income_certificate",
+      "caste_certificate",
+      "bank_passbook"
+    ],
+    "links": {
+      "apply": "https://scholarship.up.gov.in/",
+      "official": "https://scholarship.up.gov.in/"
+    },
+    "summary": {
+      "en": "For UP SC/ST/OBC/Minority students (9–12) with income < ₹2,00,000.",
+      "hi": "उत्तर प्रदेश SC/ST/OBC/अल्पसंख्यक छात्रों के लिए (9–12), आय ₹2,00,000 से कम।"
+    },
+    "source": "Govt. of UP",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "MH_OPEN_MERIT",
+    "title": "Maharashtra Open Merit Scholarship",
+    "states": ["MH"],
+    "boards": ["STATE"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-10-05",
+    "benefit": "₹5000 per year",
+    "requires": ["ssc_marksheet", "income_certificate"],
+    "links": {
+      "apply": "https://mahadbt.maharashtra.gov.in/",
+      "official": "https://mahadbt.maharashtra.gov.in/"
+    },
+    "summary": {
+      "en": "For Maharashtra students securing more than 60% in SSC.",
+      "hi": "60% से अधिक अंक पाने वाले महाराष्ट्र छात्रों हेतु।"
+    },
+    "source": "Govt. of Maharashtra",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "NSP_DISABLED",
+    "title": "National Fellowship for Disabled Students",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-08-31",
+    "benefit": "₹2000–₹4000 monthly allowance",
+    "requires": [
+      "disability_certificate",
+      "income_certificate",
+      "school_certificate"
+    ],
+    "links": {
+      "apply": "https://scholarships.gov.in/",
+      "official": "https://scholarships.gov.in/"
+    },
+    "summary": {
+      "en": "For students with disability above 40% enrolled in recognized schools.",
+      "hi": "40% से अधिक दिव्यांग छात्रों हेतु।"
+    },
+    "source": "NSP",
+    "last_updated": "2025-08-28"
+  },
+  {
+    "id": "AICTE_PRAGATI",
+    "title": "AICTE Pragati Scholarship for Girls",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 800000,
+    "categories_any": ["General", "OBC", "SC", "ST", "Minority"],
+    "deadline": "2025-09-30",
+    "benefit": "₹50,000 per year for girls pursuing technical education",
+    "requires": [
+      "aadhaar",
+      "income_certificate",
+      "admission_proof",
+      "bank_passbook"
+    ],
+    "links": {
+      "apply": "https://www.aicte-pragati-saksham-gov.in/",
+      "official": "https://www.aicte-india.org/"
+    },
+    "summary": {
+      "en": "For girl students admitted to AICTE-approved technical courses.",
+      "hi": "AICTE मान्यता प्राप्त तकनीकी पाठ्यक्रम में प्रवेश लेने वाली छात्राओं हेतु।"
+    },
+    "source": "AICTE",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AICTE_SAKSHAM",
+    "title": "AICTE Saksham Scholarship for Differently Abled Students",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 800000,
+    "categories_any": ["Disabled"],
+    "deadline": "2025-09-30",
+    "benefit": "₹50,000 per year for pursuing technical education",
+    "requires": [
+      "disability_certificate",
+      "income_certificate",
+      "admission_proof",
+      "aadhaar"
+    ],
+    "links": {
+      "apply": "https://www.aicte-pragati-saksham-gov.in/",
+      "official": "https://www.aicte-india.org/"
+    },
+    "summary": {
+      "en": "For students with disability >40% pursuing technical education.",
+      "hi": "40% से अधिक दिव्यांग छात्र जो तकनीकी शिक्षा प्राप्त कर रहे हैं, उनके लिए।"
+    },
+    "source": "AICTE",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "NTSE",
+    "title": "National Talent Search Examination (NTSE) Scholarship",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 10, "max": 10 },
+    "deadline": "2025-08-15",
+    "benefit": "₹1250 per month (Class 11–12), ₹2000 (UG/PG)",
+    "requires": ["marksheet", "school_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ncert.nic.in/",
+      "official": "https://ncert.nic.in/"
+    },
+    "summary": {
+      "en": "For Class 10 students with top performance in NTSE exam.",
+      "hi": "कक्षा 10 के मेधावी छात्रों हेतु, जो NTSE परीक्षा में सफल हों।"
+    },
+    "source": "NCERT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PMSSS_JK",
+    "title": "Prime Minister’s Special Scholarship Scheme (J&K & Ladakh)",
+    "states": ["JK", "LA"],
+    "boards": ["STATE", "CBSE", "ICSE"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 800000,
+    "deadline": "2025-07-31",
+    "benefit": "Up to ₹1.25 lakh tuition + ₹1 lakh maintenance",
+    "requires": [
+      "domicile_certificate",
+      "income_certificate",
+      "aadhaar",
+      "marksheet"
+    ],
+    "links": {
+      "apply": "https://aicte-jk-scholarship-gov.in/",
+      "official": "https://aicte-india.org/"
+    },
+    "summary": {
+      "en": "For J&K and Ladakh students pursuing higher education outside the state.",
+      "hi": "जम्मू-कश्मीर और लद्दाख के छात्रों हेतु, राज्य के बाहर उच्च शिक्षा के लिए।"
+    },
+    "source": "AICTE",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LPF_LAXMI",
+    "title": "Laxmi Charitable Trust – Laxmi Girls Scholarship",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 12 },
+    "income_max": 300000,
+    "categories_any": ["Girl"],
+    "deadline": "2025-12-15",
+    "benefit": "Covers tuition + books + uniform expenses",
+    "requires": [
+      "income_certificate",
+      "aadhaar",
+      "school_certificate"
+    ],
+    "links": {
+      "apply": "https://lpf.org.in/",
+      "official": "https://lpf.org.in/"
+    },
+    "summary": {
+      "en": "Scholarship for underprivileged girl students across India.",
+      "hi": "देशभर की वंचित कन्याओं हेतु छात्रवृत्ति।"
+    },
+    "source": "Laxmi Foundation",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TATA_SCHOLARSHIP",
+    "title": "Tata Scholarship for Higher Studies",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 400000,
+    "deadline": "2025-11-30",
+    "benefit": "Partial/Full tuition coverage for UG courses",
+    "requires": [
+      "income_certificate",
+      "marksheet",
+      "aadhaar"
+    ],
+    "links": {
+      "apply": "https://www.tatatrusts.org/",
+      "official": "https://www.tatatrusts.org/"
+    },
+    "summary": {
+      "en": "For financially weaker students pursuing higher education in India.",
+      "hi": "भारत में उच्च शिक्षा प्राप्त करने वाले आर्थिक रूप से कमजोर छात्रों हेतु।"
+    },
+    "source": "Tata Trusts",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "ONGC_SCHOLARSHIP",
+    "title": "ONGC Scholarship for SC/ST & OBC Students",
+    "states": ["IN-*"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 200000,
+    "categories_any": ["SC", "ST", "OBC"],
+    "deadline": "2025-10-20",
+    "benefit": "₹48,000 per year for UG/PG studies",
+    "requires": [
+      "caste_certificate",
+      "income_certificate",
+      "aadhaar",
+      "marksheet"
+    ],
+    "links": {
+      "apply": "https://www.ongcindia.com/",
+      "official": "https://www.ongcindia.com/"
+    },
+    "summary": {
+      "en": "For SC/ST/OBC meritorious students pursuing UG/PG courses.",
+      "hi": "SC/ST/OBC मेधावी छात्रों के लिए (UG/PG पाठ्यक्रम)।"
+    },
+    "source": "ONGC Foundation",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "KA_PRABHUDDHA_OVERSEAS",
+    "title": "Prabhuddha Overseas Scholarship (Karnataka)",
+    "states": ["KA"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "Financial aid for minority students pursuing studies abroad",
+    "requires": ["domicile_certificate", "passport", "marksheet"],
+    "links": {
+      "apply": "https://www.myscheme.gov.in/schemes/pdos",
+      "official": "https://ssp.karnataka.gov.in/"
+    },
+    "summary": {
+      "en": "For minority students in Karnataka aiming to study overseas.",
+      "hi": "विदेश में अध्ययन करने वाले अल्पसंख्यक छात्रों के लिए।"
+    },
+    "source": "Karnataka State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KA_PRE_MATRIC_MINORITIES",
+    "title": "Pre-Matric Scholarship for Minorities (Karnataka)",
+    "states": ["KA"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "Monthly stipend + fee reimbursement",
+    "requires": ["income_certificate", "minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ssp.karnataka.gov.in/",
+      "official": "https://ssp.karnataka.gov.in/"
+    },
+    "summary": {
+      "en": "Support for minority children up to Class 10 in Karnataka.",
+      "hi": "कक्षा 10 तक के अल्पसंख्यक बच्चों के लिए Karnataka में सहायता।"
+    },
+    "source": "Karnataka State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KA_INCENTIVE_SSLC_PUC",
+    "title": "Incentive for SSLC & 2nd PUC Students (Karnataka)",
+    "states": ["KA"],
+    "boards": ["STATE"],
+    "grades": { "min": 10, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Cash incentives for high achievers in SSLC and PUC",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://ssp.karnataka.gov.in/",
+      "official": "https://ssp.karnataka.gov.in/"
+    },
+    "summary": {
+      "en": "Merit-based incentive for Class 10 & 12 students in Karnataka.",
+      "hi": "Karnataka में कक्षा 10 व 12 के छात्रों के लिए मेरिट-आधारित प्रोत्साहन।"
+    },
+    "source": "Karnataka State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KA_MERIT_OVERSEAS_MINORITIES",
+    "title": "National Overseas Scholarship for Minority Students (Karnataka)",
+    "states": ["KA"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "Funding for overseas UG/PG studies",
+    "requires": ["minority_certificate", "income_certificate", "marksheet"],
+    "links": {
+      "apply": "https://ssp.karnataka.gov.in/",
+      "official": "https://ssp.karnataka.gov.in/"
+    },
+    "summary": {
+      "en": "Funding support for minority students pursuing higher education abroad.",
+      "hi": "विदेश में उच्च शिक्षा प्राप्त करने वालों अल्पसंख्यक छात्रों को आर्थिक सहायता।"
+    },
+    "source": "Karnataka State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KA_PRE_MATRIC_UNCLEAN_OCC",
+    "title": "Pre-Matric Scholarships for Children in Unclean Occupations (Karnataka)",
+    "states": ["KA"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-09-30",
+    "benefit": "Monthly stipend for children of parents in specified occupations",
+    "requires": ["parent_occupation_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ssp.karnataka.gov.in/",
+      "official": "https://ssp.karnataka.gov.in/"
+    },
+    "summary": {
+      "en": "Support for children of parents engaged in unclean occupations.",
+      "hi": "अशुद्ध रोजगार में लगे माता-पिता के बच्चों के लिए आर्थिक सहायता।"
+    },
+    "source": "Karnataka State",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "OD_MUKHYAMANTRI_MEDHABRUTI",
+    "title": "Mukhyamantri Medhabruti Puraskar Yojana (Odisha)",
+    "states": ["OD"],
+    "boards": ["STATE"],
+    "grades": { "min": 10, "max": 10 },
+    "deadline": "2025-05-31",
+    "benefit": "Cash prize for top performers in Class 10 exam",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.odisha.gov.in/",
+      "official": "https://scholarship.odisha.gov.in/"
+    },
+    "summary": {
+      "en": "Merit-based cash award for Class 10 toppers in Odisha.",
+      "hi": "Odisha में कक्षा 10 के टॉपर छात्रों को मेरिट-आधारित नकद पुरस्कार।"
+    },
+    "source": "Odisha State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "OD_SUDAKHYA_YOJANA",
+    "title": "Sudakhya Yojana (Odisha)",
+    "states": ["OD"],
+    "boards": ["STATE"],
+    "grades": { "min": 10, "max": 10 },
+    "deadline": "2025-06-30",
+    "benefit": "Support for girls entering ITI after Class X",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.odisha.gov.in/",
+      "official": "https://scholarship.odisha.gov.in/"
+    },
+    "summary": {
+      "en": "Encourages girls in Odisha to pursue technical education post-Class X.",
+      "hi": "Odisha में लड़कियों को कक्षा 10 के बाद तकनीकी शिक्षा हेतु प्रेरित करता है।"
+    },
+    "source": "Odisha State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "OD_AKANKSHYA_YOJANA",
+    "title": "Akankshya Yojana (Odisha)",
+    "states": ["OD"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "Hostel facilities for tribal students in higher education",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://education.odisha.gov.in/",
+      "official": "https://education.odisha.gov.in/"
+    },
+    "summary": {
+      "en": "Provides hostel support to tribal students pursuing higher education.",
+      "hi": "उच्च शिक्षा प्राप्त कर रहे आदिवासी छात्रों के लिए होस्टल सहायता।"
+    },
+    "source": "Odisha State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "OD_BANISHREE",
+    "title": "Banishree Scholarship (Odisha)",
+    "states": ["OD"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-15",
+    "benefit": "Scholarship for students with special needs",
+    "requires": ["special_needs_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.odisha.gov.in/",
+      "official": "https://scholarship.odisha.gov.in/"
+    },
+    "summary": {
+      "en": "Support for children with special needs across school levels.",
+      "hi": "विभिन्न कक्षा स्तरों में विशेष आवश्यकता वाले बच्चों के लिए सहायता।"
+    },
+    "source": "Odisha State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "OD_SUBHADRA_YOJANA",
+    "title": "Subhadra Yojana (Odisha)",
+    "states": ["OD"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 60 },
+    "deadline": "2025-12-31",
+    "benefit": "₹50,000 over 5 years to women aged 21–60",
+    "requires": ["aadhaar", "income_certificate"],
+    "links": {
+      "apply": "https://subhadrayojanaodisha.org/",
+      "official": "https://subhadrayojanaodisha.org/"
+    },
+    "summary": {
+      "en": "Financial empowerment scheme for women in Odisha.",
+      "hi": "Odisha में महिलाओं के लिए वित्तीय सशक्तिकरण योजना।"
+    },
+    "source": "Odisha State",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "WB_KANYASHREE",
+    "title": "Kanyashree Prakalpa (West Bengal)",
+    "states": ["WB"],
+    "boards": ["STATE"],
+    "grades": { "min": 8, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹1,000 annually + ₹25,000 one-time grant",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://wbkanyashree.gov.in/",
+      "official": "https://wbkanyashree.gov.in/"
+    },
+    "summary": {
+      "en": "Annual and one-time grant for unmarried girls aged 13–18.",
+      "hi": "13-18 वर्ष की अविवाहित लड़कियों के लिए वार्षिक और एक-बारगी अनुदान।"
+    },
+    "source": "West Bengal State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "WB_SWAMI_VIVEKANANDA_MCM",
+    "title": "Swami Vivekananda Merit-cum-Means Scholarship (West Bengal)",
+    "states": ["WB"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-30",
+    "benefit": "Tuition support based on merit and need",
+    "requires": ["marksheet", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://wb.gov.in/",
+      "official": "https://wb.gov.in/"
+    },
+    "summary": {
+      "en": "For meritorious students with financial need in West Bengal.",
+      "hi": "West Bengal के मेधावी और आर्थिक रूप से जरूरतमंद छात्रों के लिए।"
+    },
+    "source": "West Bengal State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "WB_RUPASHREE",
+    "title": "Rupashree Prakalpa (West Bengal)",
+    "states": ["WB"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 60 },
+    "deadline": "2025-12-31",
+    "benefit": "One-time marriage assistance to women",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://wb.gov.in/",
+      "official": "https://wb.gov.in/"
+    },
+    "summary": {
+      "en": "Marriage support for women from economically backward families.",
+      "hi": "आर्थिक रूप से कमजोर परिवारों की महिलाओं के लिए विवाह सहायता।"
+    },
+    "source": "West Bengal State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "WB_BANGLAR_AWAS",
+    "title": "Banglar Awas Yojna (West Bengal)",
+    "states": ["WB"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 60 },
+    "deadline": "2025-12-31",
+    "benefit": "Affordable housing for low-income families",
+    "requires": ["income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://wb.gov.in/",
+      "official": "https://wb.gov.in/"
+    },
+    "summary": {
+      "en": "Housing assistance for low-income families in West Bengal.",
+      "hi": "West Bengal में निम्न-आय वाले परिवारों के लिए आवास सहायता।"
+    },
+    "source": "West Bengal State",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "WB_YUVASHREE",
+    "title": "Yuvashree Scheme (West Bengal)",
+    "states": ["WB"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 60 },
+    "deadline": "2025-12-31",
+    "benefit": "Financial assistance for unemployed youth",
+    "requires": ["aadhaar"],
+    "links": {
+      "apply": "https://wb.gov.in/",
+      "official": "https://wb.gov.in/"
+    },
+    "summary": {
+      "en": "Support for unemployed youth across West Bengal.",
+      "hi": "West Bengal में बेरोज़गार युवाओं के लिए सहायता।"
+    },
+    "source": "West Bengal State",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "GJ_NAMO_LAKSHMI_YOJANA",
+    "title": "Namo Lakshmi Yojana (Gujarat)",
+    "states": ["GJ"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 10 },
+    "deadline": "2025-06-01",
+    "benefit": "₹10,000/year for girls in Classes 9–10",
+    "requires": ["aadhaar", "school_certificate"],
+    "links": {
+      "apply": "https://gujarat.gov.in/",
+      "official": "https://gujarat.gov.in/"
+    },
+    "summary": {
+      "en": "Annual assistance for female students in Classes 9–10.",
+      "hi": "कक्षा 9–10 की छात्राओं को वार्षिक सहायता।"
+    },
+    "source": "Gujarat State",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "BR_BSEB_STUDENT_CREDIT",
+    "title": "Student Credit Card Scheme (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Loan up to ₹4 lakh for higher education",
+    "requires": ["aadhaar", "income_certificate", "school_certificate"],
+    "links": {
+      "apply": "https://www.7nishchay-yuvaupmission.bihar.gov.in/",
+      "official": "https://www.7nishchay-yuvaupmission.bihar.gov.in/"
+    },
+    "summary": {
+      "en": "Financial aid for higher studies under Bihar's 7 Nishchay scheme.",
+      "hi": "बिहार की 7 निश्चय योजना के तहत उच्च शिक्षा हेतु वित्तीय सहायता।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_POST_MATRIC_SC_ST",
+    "title": "Post-Matric Scholarship for SC/ST Students (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-30",
+    "benefit": "Covers tuition, maintenance, and other allowances",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://pmsonline.bih.nic.in/",
+      "official": "https://pmsonline.bih.nic.in/"
+    },
+    "summary": {
+      "en": "For SC/ST students in Bihar studying Class 9–12 with income < ₹2.5 lakh.",
+      "hi": "बिहार SC/ST छात्रों के लिए (9–12), आय ₹2.5 लाख से कम।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_CHIEF_MIN_GIRL_CHILD",
+    "title": "Mukhyamantri Kanya Utthan Yojana (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Cash incentives at different school stages",
+    "requires": ["birth_certificate", "aadhaar", "school_certificate"],
+    "links": {
+      "apply": "https://medhasoft.bih.nic.in/",
+      "official": "https://medhasoft.bih.nic.in/"
+    },
+    "summary": {
+      "en": "Cash incentives for girls from birth till graduation.",
+      "hi": "जन्म से लेकर स्नातक तक बालिकाओं के लिए नकद प्रोत्साहन।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_CHIEF_MIN_INTERMEDIATE",
+    "title": "Mukhyamantri Balak/Balika Protsahan Yojana (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "₹10,000 incentive for students passing Class 12",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://medhasoft.bih.nic.in/",
+      "official": "https://medhasoft.bih.nic.in/"
+    },
+    "summary": {
+      "en": "Cash support for students passing Class 12 in Bihar.",
+      "hi": "बिहार में कक्षा 12 पास छात्रों हेतु नकद सहायता।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_EBC_OBC_POST_MATRIC",
+    "title": "Post-Matric Scholarship for EBC/OBC Students (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 12 },
+    "income_max": 150000,
+    "deadline": "2025-09-30",
+    "benefit": "Covers tuition + maintenance allowance",
+    "requires": ["income_certificate", "caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://pmsonline.bih.nic.in/",
+      "official": "https://pmsonline.bih.nic.in/"
+    },
+    "summary": {
+      "en": "For OBC/EBC students in Bihar Class 9–12 with income < ₹1.5 lakh.",
+      "hi": "बिहार OBC/EBC छात्रों के लिए (9–12), आय ₹1.5 लाख से कम।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "UP_PRE_MATRIC_SC_ST",
+    "title": "Pre-Matric Scholarship for SC/ST Students (UP)",
+    "states": ["UP"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "income_max": 250000,
+    "deadline": "2025-09-15",
+    "benefit": "₹100–₹600 monthly + ad-hoc grant",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.up.gov.in/",
+      "official": "https://scholarship.up.gov.in/"
+    },
+    "summary": {
+      "en": "For SC/ST school students in UP with income < ₹2.5 lakh.",
+      "hi": "उत्तर प्रदेश SC/ST स्कूली छात्रों हेतु, आय ₹2.5 लाख से कम।"
+    },
+    "source": "UP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UP_PRE_MATRIC_MINORITY",
+    "title": "Pre-Matric Minority Scholarship (UP)",
+    "states": ["UP"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "income_max": 100000,
+    "deadline": "2025-09-20",
+    "benefit": "Stipend + fee reimbursement",
+    "requires": ["income_certificate", "minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.up.gov.in/",
+      "official": "https://scholarship.up.gov.in/"
+    },
+    "summary": {
+      "en": "For minority students in Classes 1–10 in Uttar Pradesh.",
+      "hi": "उत्तर प्रदेश के कक्षा 1–10 के अल्पसंख्यक छात्रों हेतु।"
+    },
+    "source": "UP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UP_MEDHAWI_CHHATRA",
+    "title": "Medhavi Chhatra Puraskar (UP)",
+    "states": ["UP"],
+    "boards": ["STATE"],
+    "grades": { "min": 10, "max": 12 },
+    "deadline": "2025-06-30",
+    "benefit": "Cash prize for top scoring students",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.up.gov.in/",
+      "official": "https://scholarship.up.gov.in/"
+    },
+    "summary": {
+      "en": "Merit prize for high achievers in UP board.",
+      "hi": "UP बोर्ड में टॉपर छात्रों हेतु नकद पुरस्कार।"
+    },
+    "source": "UP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UP_PENSION_SCHEME",
+    "title": "Vidyarthi Pension Yojana (UP)",
+    "states": ["UP"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Monthly pension to children of poor families",
+    "requires": ["income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.up.gov.in/",
+      "official": "https://scholarship.up.gov.in/"
+    },
+    "summary": {
+      "en": "For poor school-going children in Uttar Pradesh.",
+      "hi": "उत्तर प्रदेश के गरीब स्कूली बच्चों हेतु मासिक पेंशन।"
+    },
+    "source": "UP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UP_PRE_MATRIC_DISABLED",
+    "title": "Pre-Matric Disability Scholarship (UP)",
+    "states": ["UP"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹400 monthly",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.up.gov.in/",
+      "official": "https://scholarship.up.gov.in/"
+    },
+    "summary": {
+      "en": "For students with disability in Classes 1–10.",
+      "hi": "कक्षा 1–10 के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "UP Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "MP_MUKHYA_MANTRI_MEDHAVI",
+    "title": "Mukhyamantri Medhavi Vidyarthi Yojana (MP)",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 600000,
+    "deadline": "2025-08-31",
+    "benefit": "Full tuition fee waiver in govt/private colleges",
+    "requires": ["marksheet", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarshipportal.mp.nic.in/",
+      "official": "https://scholarshipportal.mp.nic.in/"
+    },
+    "summary": {
+      "en": "Tuition fee waiver for meritorious Class 12 students of MP.",
+      "hi": "MP में कक्षा 12 के मेधावी छात्रों हेतु शुल्क माफी।"
+    },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_PRE_MATRIC_SC_ST",
+    "title": "Pre-Matric Scholarship for SC/ST Students (MP)",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "income_max": 250000,
+    "deadline": "2025-09-15",
+    "benefit": "Monthly stipend + exam fee reimbursement",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarshipportal.mp.nic.in/",
+      "official": "https://scholarshipportal.mp.nic.in/"
+    },
+    "summary": {
+      "en": "For SC/ST students in MP with income < ₹2.5 lakh.",
+      "hi": "MP के SC/ST छात्रों हेतु, आय ₹2.5 लाख से कम।"
+    },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_POST_MATRIC_OBC",
+    "title": "Post-Matric Scholarship for OBC Students (MP)",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 300000,
+    "deadline": "2025-09-20",
+    "benefit": "Tuition fee reimbursement",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarshipportal.mp.nic.in/",
+      "official": "https://scholarshipportal.mp.nic.in/"
+    },
+    "summary": {
+      "en": "For OBC students of MP pursuing post-matric education.",
+      "hi": "MP के OBC छात्रों हेतु पोस्ट-मैट्रिक शिक्षा में सहायता।"
+    },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_GAON_KI_BETI",
+    "title": "Gaon Ki Beti Yojana (MP)",
+    "states": ["MP"],
+    "boards": ["STATE"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "₹500 per month for rural girl students",
+    "requires": ["school_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarshipportal.mp.nic.in/",
+      "official": "https://scholarshipportal.mp.nic.in/"
+    },
+    "summary": {
+      "en": "Monthly scholarship for rural girl students of MP.",
+      "hi": "MP की ग्रामीण बालिकाओं हेतु मासिक छात्रवृत्ति।"
+    },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_VIKRAMADITYA",
+    "title": "Vikramaditya Scholarship Yojana (MP)",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 120000,
+    "deadline": "2025-09-10",
+    "benefit": "Financial aid for students from poor families",
+    "requires": ["income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarshipportal.mp.nic.in/",
+      "official": "https://scholarshipportal.mp.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for poor students of general category in MP.",
+      "hi": "MP के सामान्य वर्ग के गरीब छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "MH_MAHA_DB_TALENT",
+    "title": "Maharashtra Talent Search Exam (MTSE)",
+    "states": ["MH"],
+    "boards": ["STATE"],
+    "grades": { "min": 8, "max": 10 },
+    "deadline": "2025-04-30",
+    "benefit": "Cash prize + fee reimbursement",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://mahadbt.maharashtra.gov.in/",
+      "official": "https://mahadbt.maharashtra.gov.in/"
+    },
+    "summary": {
+      "en": "Talent-based exam scholarship for Classes 8–10.",
+      "hi": "कक्षा 8–10 के छात्रों हेतु टैलेंट आधारित छात्रवृत्ति।"
+    },
+    "source": "MH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MH_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (MH)",
+    "states": ["MH"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-30",
+    "benefit": "Covers tuition, exam fees, maintenance",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://mahadbt.maharashtra.gov.in/",
+      "official": "https://mahadbt.maharashtra.gov.in/"
+    },
+    "summary": {
+      "en": "For SC students in Maharashtra pursuing post-matric education.",
+      "hi": "Maharashtra में SC छात्रों हेतु पोस्ट-मैट्रिक शिक्षा में सहायता।"
+    },
+    "source": "MH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MH_OPEN_MERIT",
+    "title": "Open Merit Scholarship (MH)",
+    "states": ["MH"],
+    "boards": ["STATE"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-10-05",
+    "benefit": "₹5000 per year",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://mahadbt.maharashtra.gov.in/",
+      "official": "https://mahadbt.maharashtra.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for students securing >60% in SSC.",
+      "hi": "SSC में 60% से अधिक अंक पाने वाले छात्रों हेतु।"
+    },
+    "source": "MH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MH_EBC",
+    "title": "Economically Backward Class (EBC) Scholarship (MH)",
+    "states": ["MH"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 100000,
+    "deadline": "2025-09-15",
+    "benefit": "Tuition and exam fee reimbursement",
+    "requires": ["income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://mahadbt.maharashtra.gov.in/",
+      "official": "https://mahadbt.maharashtra.gov.in/"
+    },
+    "summary": {
+      "en": "For economically weaker students in Maharashtra.",
+      "hi": "Maharashtra में आर्थिक रूप से कमजोर छात्रों हेतु।"
+    },
+    "source": "MH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MH_MINORITY",
+    "title": "Minority Scholarship (MH)",
+    "states": ["MH"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "income_max": 200000,
+    "deadline": "2025-09-20",
+    "benefit": "Covers tuition + maintenance allowance",
+    "requires": ["minority_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://mahadbt.maharashtra.gov.in/",
+      "official": "https://mahadbt.maharashtra.gov.in/"
+    },
+    "summary": {
+      "en": "For minority students with low family income in Maharashtra.",
+      "hi": "Maharashtra में अल्पसंख्यक छात्रों हेतु।"
+    },
+    "source": "MH Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "TN_PERARIGNAR_ANNADURAI",
+    "title": "Perarignar Anna Scholarship Scheme (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-09-15",
+    "benefit": "Financial aid for UG studies",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://tn.gov.in/schemes/",
+      "official": "https://tn.gov.in/schemes/"
+    },
+    "summary": {
+      "en": "Support for higher studies in Tamil Nadu.",
+      "hi": "तमिलनाडु में उच्च शिक्षा के लिए सहायता।"
+    },
+    "source": "TN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_EVRC_POSTMATRIC",
+    "title": "Post-Matric Scholarship for Backward Classes (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 200000,
+    "deadline": "2025-09-20",
+    "benefit": "Covers tuition + exam fees",
+    "requires": ["income_certificate", "caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://www.tn.gov.in/",
+      "official": "https://www.tn.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric support for backward class students in Tamil Nadu.",
+      "hi": "तमिलनाडु में पिछड़ा वर्ग छात्रों के लिए पोस्ट-मैट्रिक सहायता।"
+    },
+    "source": "TN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_MBC_DENOTIFIED",
+    "title": "Scholarship for MBC & Denotified Communities (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Free education + cash support",
+    "requires": ["community_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://www.tn.gov.in/",
+      "official": "https://www.tn.gov.in/"
+    },
+    "summary": {
+      "en": "For MBC and Denotified community students in Tamil Nadu.",
+      "hi": "तमिलनाडु में MBC और डिनोटिफाइड समुदाय के छात्रों हेतु।"
+    },
+    "source": "TN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_GIRL_CHILD",
+    "title": "Moovalur Ramamirtham Ammaiyar Ninaivu Marriage Assistance (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 30 },
+    "deadline": "2025-12-31",
+    "benefit": "Marriage assistance grant for girls",
+    "requires": ["aadhaar", "income_certificate"],
+    "links": {
+      "apply": "https://www.tn.gov.in/",
+      "official": "https://www.tn.gov.in/"
+    },
+    "summary": {
+      "en": "Marriage assistance for poor girls in Tamil Nadu.",
+      "hi": "तमिलनाडु में गरीब लड़कियों हेतु विवाह सहायता।"
+    },
+    "source": "TN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_CHIEF_MIN_GIRL_CHILD",
+    "title": "Chief Minister Girl Child Protection Scheme (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Fixed deposit + scholarships for girl child",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://www.tn.gov.in/",
+      "official": "https://www.tn.gov.in/"
+    },
+    "summary": {
+      "en": "Girl child welfare scheme with education support in Tamil Nadu.",
+      "hi": "तमिलनाडु में बालिका कल्याण व शिक्षा सहायता।"
+    },
+    "source": "TN Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "RJ_POST_MATRIC_SC_ST",
+    "title": "Post-Matric Scholarship for SC/ST/OBC Students (Rajasthan)",
+    "states": ["RJ"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + maintenance allowance",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sje.rajasthan.gov.in/",
+      "official": "https://sje.rajasthan.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC/ST/OBC students of Rajasthan in Class 11–12.",
+      "hi": "राजस्थान के SC/ST/OBC छात्रों हेतु छात्रवृत्ति (कक्षा 11–12)।"
+    },
+    "source": "RJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "RJ_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Rajasthan)",
+    "states": ["RJ"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "income_max": 200000,
+    "deadline": "2025-09-20",
+    "benefit": "₹150–₹350 monthly stipend",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sje.rajasthan.gov.in/",
+      "official": "https://sje.rajasthan.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC school children in Rajasthan.",
+      "hi": "राजस्थान में SC स्कूली बच्चों हेतु भत्ता।"
+    },
+    "source": "RJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "RJ_CHIEF_MIN_GIRL_EDU",
+    "title": "Chief Minister Higher Education Scholarship (Rajasthan)",
+    "states": ["RJ"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-08-31",
+    "benefit": "₹5000 annual support for college-going students",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://sje.rajasthan.gov.in/",
+      "official": "https://sje.rajasthan.gov.in/"
+    },
+    "summary": {
+      "en": "Support for students of Rajasthan securing >60% in Class 12.",
+      "hi": "राजस्थान में 12वीं में 60% से अधिक अंक प्राप्त छात्रों हेतु।"
+    },
+    "source": "RJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "RJ_KASTURBA_HOSTEL",
+    "title": "Kasturba Gandhi Balika Vidyalaya Hostel Scheme (Rajasthan)",
+    "states": ["RJ"],
+    "boards": ["STATE"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Free hostel & meals for rural girl students",
+    "requires": ["school_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sje.rajasthan.gov.in/",
+      "official": "https://sje.rajasthan.gov.in/"
+    },
+    "summary": {
+      "en": "Residential school facility for rural girls in Rajasthan.",
+      "hi": "राजस्थान की ग्रामीण बालिकाओं हेतु आवासीय विद्यालय सुविधा।"
+    },
+    "source": "RJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "RJ_ASHIRWAD",
+    "title": "Aashirwad Scheme for Orphan Students (Rajasthan)",
+    "states": ["RJ"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Scholarship + free textbooks & uniforms",
+    "requires": ["orphan_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sje.rajasthan.gov.in/",
+      "official": "https://sje.rajasthan.gov.in/"
+    },
+    "summary": {
+      "en": "Support for orphaned children pursuing schooling in Rajasthan.",
+      "hi": "राजस्थान में अनाथ बच्चों हेतु शैक्षिक सहायता।"
+    },
+    "source": "RJ Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "GJ_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Gujarat)",
+    "states": ["GJ"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-15",
+    "benefit": "Fee + book allowance",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.gujarat.gov.in/",
+      "official": "https://scholarships.gujarat.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC students in Gujarat pursuing higher secondary studies.",
+      "hi": "गुजरात में SC छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "GJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GJ_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Gujarat)",
+    "states": ["GJ"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-20",
+    "benefit": "Hostel allowance + tuition coverage",
+    "requires": ["tribal_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.gujarat.gov.in/",
+      "official": "https://scholarships.gujarat.gov.in/"
+    },
+    "summary": {
+      "en": "For tribal students of Gujarat in Classes 11–12.",
+      "hi": "गुजरात के आदिवासी छात्रों हेतु।"
+    },
+    "source": "GJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GJ_POST_MATRIC_OBC",
+    "title": "Post-Matric Scholarship for OBC Students (Gujarat)",
+    "states": ["GJ"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 200000,
+    "deadline": "2025-09-25",
+    "benefit": "Tuition fee reimbursement",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://scholarships.gujarat.gov.in/",
+      "official": "https://scholarships.gujarat.gov.in/"
+    },
+    "summary": {
+      "en": "For OBC students in Gujarat pursuing post-matric education.",
+      "hi": "गुजरात में OBC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "GJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GJ_PRE_MATRIC_MINORITY",
+    "title": "Pre-Matric Minority Scholarship (Gujarat)",
+    "states": ["GJ"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "income_max": 100000,
+    "deadline": "2025-09-30",
+    "benefit": "Monthly stipend + fee",
+    "requires": ["minority_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://scholarships.gujarat.gov.in/",
+      "official": "https://scholarships.gujarat.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for minority school students in Gujarat.",
+      "hi": "गुजरात के अल्पसंख्यक छात्रों हेतु।"
+    },
+    "source": "GJ Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GJ_POST_METRIC_DISABILITY",
+    "title": "Post-Matric Scholarship for Disabled Students (Gujarat)",
+    "states": ["GJ"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-28",
+    "benefit": "₹400–₹1000 per month",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.gujarat.gov.in/",
+      "official": "https://scholarships.gujarat.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled students of Gujarat in post-matric education.",
+      "hi": "गुजरात के दिव्यांग छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "GJ Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "PB_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Punjab)",
+    "states": ["PB"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-20",
+    "benefit": "Covers tuition and allowances",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://scholarships.punjab.gov.in/",
+      "official": "https://scholarships.punjab.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC students in Punjab post-matric classes.",
+      "hi": "पंजाब में SC छात्रों हेतु पोस्ट-मैट्रिक सहायता।"
+    },
+    "source": "PB Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PB_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Punjab)",
+    "states": ["PB"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹100–₹300 stipend monthly",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://scholarships.punjab.gov.in/",
+      "official": "https://scholarships.punjab.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC schoolchildren of Punjab.",
+      "hi": "पंजाब के SC स्कूली बच्चों हेतु भत्ता।"
+    },
+    "source": "PB Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PB_ASHIRWAD_SCHEME",
+    "title": "Ashirwad Scheme for Girls (Punjab)",
+    "states": ["PB"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 30 },
+    "deadline": "2025-12-31",
+    "benefit": "Marriage assistance grant",
+    "requires": ["aadhaar", "income_certificate"],
+    "links": {
+      "apply": "https://punjab.gov.in/",
+      "official": "https://punjab.gov.in/"
+    },
+    "summary": {
+      "en": "Marriage grant for SC/poor families' daughters in Punjab.",
+      "hi": "SC/गरीब परिवार की बेटियों हेतु विवाह अनुदान।"
+    },
+    "source": "PB Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PB_MERIT_MINORITY",
+    "title": "Merit-cum-Means Scholarship for Minority Students (Punjab)",
+    "states": ["PB"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Fee + stipend",
+    "requires": ["minority_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://scholarships.punjab.gov.in/",
+      "official": "https://scholarships.punjab.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for meritorious minority students in Punjab.",
+      "hi": "पंजाब के मेधावी अल्पसंख्यक छात्रों हेतु।"
+    },
+    "source": "PB Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PB_PRE_MATRIC_DISABLED",
+    "title": "Pre-Matric Scholarship for Disabled Students (Punjab)",
+    "states": ["PB"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-09-20",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.punjab.gov.in/",
+      "official": "https://scholarships.punjab.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled school children in Punjab.",
+      "hi": "पंजाब के दिव्यांग स्कूली छात्रों हेतु।"
+    },
+    "source": "PB Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "HR_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Haryana)",
+    "states": ["HR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-25",
+    "benefit": "Tuition + allowance",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://harchhatravratti.highereduhry.ac.in/",
+      "official": "https://harchhatravratti.highereduhry.ac.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC students in Haryana post-matric education.",
+      "hi": "हरियाणा में SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "HR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HR_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Haryana)",
+    "states": ["HR"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-20",
+    "benefit": "₹100–₹300 monthly",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://harchhatravratti.highereduhry.ac.in/",
+      "official": "https://harchhatravratti.highereduhry.ac.in/"
+    },
+    "summary": {
+      "en": "Monthly stipend for SC schoolchildren in Haryana.",
+      "hi": "हरियाणा के SC स्कूली बच्चों हेतु मासिक भत्ता।"
+    },
+    "source": "HR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HR_MERIT_GIRLS",
+    "title": "Merit Scholarship for Girls (Haryana)",
+    "states": ["HR"],
+    "boards": ["STATE"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹3000–₹5000 annual",
+    "requires": ["school_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://harchhatravratti.highereduhry.ac.in/",
+      "official": "https://harchhatravratti.highereduhry.ac.in/"
+    },
+    "summary": {
+      "en": "Cash award for meritorious girl students of Haryana.",
+      "hi": "हरियाणा की मेधावी छात्राओं हेतु नकद पुरस्कार।"
+    },
+    "source": "HR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HR_CHIEF_MIN_HBOC",
+    "title": "Chief Minister BC Scholarship (Haryana)",
+    "states": ["HR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-28",
+    "benefit": "Tuition fee reimbursement",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://harchhatravratti.highereduhry.ac.in/",
+      "official": "https://harchhatravratti.highereduhry.ac.in/"
+    },
+    "summary": {
+      "en": "Scholarship for BC students in Haryana.",
+      "hi": "हरियाणा के पिछड़े वर्ग छात्रों हेतु।"
+    },
+    "source": "HR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HR_DISABLED",
+    "title": "Scholarship for Disabled Students (Haryana)",
+    "states": ["HR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://harchhatravratti.highereduhry.ac.in/",
+      "official": "https://harchhatravratti.highereduhry.ac.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled students of Haryana.",
+      "hi": "हरियाणा के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "HR Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "DL_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Delhi)",
+    "states": ["DL"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-15",
+    "benefit": "Tuition + stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scstwelfare.delhigovt.nic.in/",
+      "official": "https://scstwelfare.delhigovt.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC students in Delhi pursuing post-matric education.",
+      "hi": "दिल्ली के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Delhi Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DL_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Delhi)",
+    "states": ["DL"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹350 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scstwelfare.delhigovt.nic.in/",
+      "official": "https://scstwelfare.delhigovt.nic.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC school students in Delhi.",
+      "hi": "दिल्ली के SC स्कूली बच्चों हेतु भत्ता।"
+    },
+    "source": "Delhi Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DL_MERIT_MINORITY",
+    "title": "Merit Scholarship for Minority Students (Delhi)",
+    "states": ["DL"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "₹5000–₹20000 annual",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://minorityaffairs.delhigovt.nic.in/",
+      "official": "https://minorityaffairs.delhigovt.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for meritorious minority students in Delhi.",
+      "hi": "दिल्ली के मेधावी अल्पसंख्यक छात्रों हेतु।"
+    },
+    "source": "Delhi Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DL_PRE_MATRIC_MINORITY",
+    "title": "Pre-Matric Minority Scholarship (Delhi)",
+    "states": ["DL"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-09-20",
+    "benefit": "Stipend + fee",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://minorityaffairs.delhigovt.nic.in/",
+      "official": "https://minorityaffairs.delhigovt.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for minority schoolchildren in Delhi.",
+      "hi": "दिल्ली के अल्पसंख्यक स्कूली छात्रों हेतु।"
+    },
+    "source": "Delhi Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DL_LADLI",
+    "title": "Delhi Ladli Scheme",
+    "states": ["DL"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Financial deposit for girl child education",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://wcd.delhigovt.nic.in/",
+      "official": "https://wcd.delhigovt.nic.in/"
+    },
+    "summary": {
+      "en": "Financial support for girl child's education in Delhi.",
+      "hi": "दिल्ली में बालिका शिक्षा हेतु वित्तीय सहायता।"
+    },
+    "source": "Delhi Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "KL_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Kerala)",
+    "states": ["KL"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-20",
+    "benefit": "Covers tuition + maintenance allowance",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.kerala.gov.in/",
+      "official": "https://scholarship.kerala.gov.in/"
+    },
+    "summary": {
+      "en": "For SC students in Kerala pursuing post-matric education.",
+      "hi": "केरल के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Kerala Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KL_PRE_MATRIC_MINORITY",
+    "title": "Pre-Matric Minority Scholarship (Kerala)",
+    "states": ["KL"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "income_max": 100000,
+    "deadline": "2025-09-15",
+    "benefit": "₹200–₹500 monthly stipend",
+    "requires": ["minority_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://scholarship.kerala.gov.in/",
+      "official": "https://scholarship.kerala.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for minority schoolchildren in Kerala.",
+      "hi": "केरल के अल्पसंख्यक स्कूली छात्रों हेतु।"
+    },
+    "source": "Kerala Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KL_SNEHITHA",
+    "title": "Snehitha Scholarship for Girl Students (Kerala)",
+    "states": ["KL"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Cash support for girl students",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://kerala.gov.in/",
+      "official": "https://kerala.gov.in/"
+    },
+    "summary": {
+      "en": "Financial aid for girl students in Kerala.",
+      "hi": "केरल की बालिकाओं हेतु छात्रवृत्ति।"
+    },
+    "source": "Kerala Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KL_FISHERMEN_CHILDREN",
+    "title": "Scholarship for Fishermen's Children (Kerala)",
+    "states": ["KL"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹1000–₹2000 annual",
+    "requires": ["parent_fishermen_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.kerala.gov.in/",
+      "official": "https://scholarship.kerala.gov.in/"
+    },
+    "summary": {
+      "en": "Educational support for children of fishermen in Kerala.",
+      "hi": "केरल के मछुआरों के बच्चों हेतु सहायता।"
+    },
+    "source": "Kerala Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "KL_CHANDRIKA",
+    "title": "Chandrika Daily Scholarship (Kerala)",
+    "states": ["KL"],
+    "boards": ["Any"],
+    "grades": { "min": 10, "max": 12 },
+    "deadline": "2025-08-31",
+    "benefit": "Merit award for Muslim girl students",
+    "requires": ["marksheet", "minority_certificate"],
+    "links": {
+      "apply": "https://scholarship.kerala.gov.in/",
+      "official": "https://scholarship.kerala.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for Muslim girl students in Kerala.",
+      "hi": "केरल की मुस्लिम छात्राओं हेतु।"
+    },
+    "source": "Kerala Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "AP_JNANA_BHUMI_SC",
+    "title": "Post-Matric Scholarship for SC Students (AP)",
+    "states": ["AP"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Covers tuition + maintenance allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jnanabhumi.ap.gov.in/",
+      "official": "https://jnanabhumi.ap.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for SC students in Andhra Pradesh.",
+      "hi": "आंध्र प्रदेश के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "AP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AP_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (AP)",
+    "states": ["AP"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-10",
+    "benefit": "₹100–₹400 stipend monthly",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jnanabhumi.ap.gov.in/",
+      "official": "https://jnanabhumi.ap.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC school students in AP.",
+      "hi": "आंध्र प्रदेश के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "AP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AP_MTF",
+    "title": "Mother Teresa Foreign Study Scheme (AP)",
+    "states": ["AP"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "Funding for overseas studies",
+    "requires": ["aadhaar", "income_certificate"],
+    "links": {
+      "apply": "https://jnanabhumi.ap.gov.in/",
+      "official": "https://jnanabhumi.ap.gov.in/"
+    },
+    "summary": {
+      "en": "Support for overseas education for minority students.",
+      "hi": "अल्पसंख्यक छात्रों हेतु विदेश शिक्षा समर्थन।"
+    },
+    "source": "AP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AP_VIDYONNATI",
+    "title": "NTR Vidyonnati Scheme (AP)",
+    "states": ["AP"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-06-30",
+    "benefit": "Coaching for Civil Services for SC/ST/OBC/Minorities",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jnanabhumi.ap.gov.in/",
+      "official": "https://jnanabhumi.ap.gov.in/"
+    },
+    "summary": {
+      "en": "Free UPSC coaching for marginalized groups in AP.",
+      "hi": "SC/ST/OBC/अल्पसंख्यक छात्रों हेतु निःशुल्क UPSC कोचिंग।"
+    },
+    "source": "AP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AP_FEE_REIMBURSE",
+    "title": "Fee Reimbursement Scheme (AP)",
+    "states": ["AP"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-08-31",
+    "benefit": "Full tuition reimbursement for eligible students",
+    "requires": ["income_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jnanabhumi.ap.gov.in/",
+      "official": "https://jnanabhumi.ap.gov.in/"
+    },
+    "summary": {
+      "en": "Covers tuition for economically weaker students in AP.",
+      "hi": "आंध्र प्रदेश में कमजोर छात्रों हेतु ट्यूशन शुल्क माफी।"
+    },
+    "source": "AP Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "TS_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Telangana)",
+    "states": ["TS"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-15",
+    "benefit": "Fee + maintenance allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://telanganaepass.cgg.gov.in/",
+      "official": "https://telanganaepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC students in Telangana post-matric.",
+      "hi": "तेलंगाना के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "TS Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TS_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Telangana)",
+    "states": ["TS"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-20",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://telanganaepass.cgg.gov.in/",
+      "official": "https://telanganaepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC schoolchildren in Telangana.",
+      "hi": "तेलंगाना के SC स्कूली छात्रों हेतु भत्ता।"
+    },
+    "source": "TS Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TS_KALYANA_LAKSHMI",
+    "title": "Kalyana Lakshmi Scheme (Telangana)",
+    "states": ["TS"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 30 },
+    "deadline": "2025-12-31",
+    "benefit": "Marriage assistance grant",
+    "requires": ["aadhaar", "income_certificate"],
+    "links": {
+      "apply": "https://telangana.gov.in/",
+      "official": "https://telangana.gov.in/"
+    },
+    "summary": {
+      "en": "Marriage support for SC/ST/BC girls in Telangana.",
+      "hi": "तेलंगाना में SC/ST/BC बालिकाओं हेतु विवाह अनुदान।"
+    },
+    "source": "TS Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TS_SHADI_MUBARAK",
+    "title": "Shaadi Mubarak Scheme (Telangana)",
+    "states": ["TS"],
+    "boards": ["Any"],
+    "grades": { "min": 18, "max": 30 },
+    "deadline": "2025-12-31",
+    "benefit": "₹1,00,116 grant for minority girls' marriage",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://telangana.gov.in/",
+      "official": "https://telangana.gov.in/"
+    },
+    "summary": {
+      "en": "Marriage grant for minority girls in Telangana.",
+      "hi": "तेलंगाना की अल्पसंख्यक लड़कियों हेतु विवाह अनुदान।"
+    },
+    "source": "TS Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TS_OVERSEAS",
+    "title": "Overseas Scholarship for SC/ST/Minority Students (Telangana)",
+    "states": ["TS"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "Funding for higher education abroad",
+    "requires": ["caste_certificate", "income_certificate", "passport"],
+    "links": {
+      "apply": "https://telanganaepass.cgg.gov.in/",
+      "official": "https://telanganaepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Support for marginalized students pursuing studies overseas.",
+      "hi": "विदेश में पढ़ाई के लिए वंचित छात्रों हेतु सहायता।"
+    },
+    "source": "TS Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "CG_POST_MATRIC_SC_ST",
+    "title": "Post-Matric Scholarship for SC/ST Students (Chhattisgarh)",
+    "states": ["CG"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-15",
+    "benefit": "Covers tuition + maintenance allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tribal.cg.gov.in/",
+      "official": "https://tribal.cg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC/ST students in Chhattisgarh.",
+      "hi": "छत्तीसगढ़ के SC/ST छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "CG Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "CG_PRE_MATRIC_SC_ST",
+    "title": "Pre-Matric Scholarship for SC/ST Students (Chhattisgarh)",
+    "states": ["CG"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-10",
+    "benefit": "₹100–₹300 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tribal.cg.gov.in/",
+      "official": "https://tribal.cg.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC/ST schoolchildren in Chhattisgarh.",
+      "hi": "छत्तीसगढ़ के SC/ST स्कूली बच्चों हेतु।"
+    },
+    "source": "CG Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "CG_POST_MATRIC_OBC",
+    "title": "Post-Matric Scholarship for OBC Students (Chhattisgarh)",
+    "states": ["CG"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Tuition fee reimbursement",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tribal.cg.gov.in/",
+      "official": "https://tribal.cg.gov.in/"
+    },
+    "summary": {
+      "en": "Support for OBC students in post-matric education.",
+      "hi": "छत्तीसगढ़ के OBC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "CG Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "CG_GIRL_CHILD",
+    "title": "Chief Minister Girl Child Scholarship (Chhattisgarh)",
+    "states": ["CG"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹500–₹1000 annual for girl students",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://cg.gov.in/",
+      "official": "https://cg.gov.in/"
+    },
+    "summary": {
+      "en": "Financial aid for girl students in Chhattisgarh.",
+      "hi": "छत्तीसगढ़ की बालिकाओं हेतु सहायता।"
+    },
+    "source": "CG Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "CG_DISABLED",
+    "title": "Scholarship for Disabled Students (Chhattisgarh)",
+    "states": ["CG"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tribal.cg.gov.in/",
+      "official": "https://tribal.cg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled school students in Chhattisgarh.",
+      "hi": "छत्तीसगढ़ के दिव्यांग स्कूली छात्रों हेतु।"
+    },
+    "source": "CG Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "JH_PRE_MATRIC_SC_ST",
+    "title": "Pre-Matric Scholarship for SC/ST Students (Jharkhand)",
+    "states": ["JH"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹350 stipend monthly",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ekalyan.cgg.gov.in/",
+      "official": "https://ekalyan.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC/ST students in Jharkhand schools.",
+      "hi": "झारखंड के SC/ST स्कूली छात्रों हेतु।"
+    },
+    "source": "JH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JH_POST_MATRIC_SC_ST",
+    "title": "Post-Matric Scholarship for SC/ST Students (Jharkhand)",
+    "states": ["JH"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel charges",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ekalyan.cgg.gov.in/",
+      "official": "https://ekalyan.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC/ST students pursuing higher secondary in Jharkhand.",
+      "hi": "झारखंड के SC/ST छात्रों हेतु।"
+    },
+    "source": "JH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JH_POST_MATRIC_OBC",
+    "title": "Post-Matric Scholarship for OBC Students (Jharkhand)",
+    "states": ["JH"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Tuition reimbursement + hostel charges",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://ekalyan.cgg.gov.in/",
+      "official": "https://ekalyan.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for OBC post-matric students in Jharkhand.",
+      "hi": "झारखंड के OBC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "JH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JH_GIRL_CHILD",
+    "title": "Savitribai Phule Kishori Samriddhi Yojana (Jharkhand)",
+    "states": ["JH"],
+    "boards": ["Any"],
+    "grades": { "min": 8, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Cash transfer for girls continuing education",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jharkhand.gov.in/",
+      "official": "https://jharkhand.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for girl students in Jharkhand to prevent dropouts.",
+      "hi": "झारखंड की बालिकाओं हेतु छात्रवृत्ति, पढ़ाई रोकने से बचाने के लिए।"
+    },
+    "source": "JH Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JH_DISABLED",
+    "title": "Scholarship for Disabled Students (Jharkhand)",
+    "states": ["JH"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ekalyan.cgg.gov.in/",
+      "official": "https://ekalyan.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled children in Jharkhand schools.",
+      "hi": "झारखंड के दिव्यांग बच्चों हेतु छात्रवृत्ति।"
+    },
+    "source": "JH Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "AS_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Assam)",
+    "states": ["AS"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹350 monthly stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.assam.gov.in/",
+      "official": "https://scholarships.assam.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC schoolchildren in Assam.",
+      "hi": "असम के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "Assam Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AS_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Assam)",
+    "states": ["AS"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.assam.gov.in/",
+      "official": "https://scholarships.assam.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for SC students in Assam.",
+      "hi": "असम के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Assam Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AS_PRE_MATRIC_MINORITY",
+    "title": "Pre-Matric Minority Scholarship (Assam)",
+    "states": ["AS"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "income_max": 100000,
+    "deadline": "2025-09-25",
+    "benefit": "₹100–₹500 stipend",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.assam.gov.in/",
+      "official": "https://scholarships.assam.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for minority school students in Assam.",
+      "hi": "असम के अल्पसंख्यक स्कूली छात्रों हेतु।"
+    },
+    "source": "Assam Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AS_PRE_MATRIC_TRIBAL",
+    "title": "Pre-Matric Scholarship for ST Students (Assam)",
+    "states": ["AS"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-30",
+    "benefit": "₹200–₹600 monthly stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.assam.gov.in/",
+      "official": "https://scholarships.assam.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for ST schoolchildren in Assam.",
+      "hi": "असम के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "Assam Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AS_ANUNDORAM",
+    "title": "Anundoram Borooah Award (Assam)",
+    "states": ["AS"],
+    "boards": ["STATE"],
+    "grades": { "min": 10, "max": 10 },
+    "deadline": "2025-08-31",
+    "benefit": "Laptop/₹20,000 cash award",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.assam.gov.in/",
+      "official": "https://scholarships.assam.gov.in/"
+    },
+    "summary": {
+      "en": "Award for Class 10 toppers in Assam.",
+      "hi": "असम में कक्षा 10 के टॉपर छात्रों हेतु।"
+    },
+    "source": "Assam Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "AR_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Arunachal Pradesh)",
+    "states": ["AR"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.arunachal.gov.in/",
+      "official": "https://scholarships.arunachal.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Arunachal Pradesh (Classes 6–10).",
+      "hi": "अरुणाचल प्रदेश के ST छात्रों हेतु (6–10)।"
+    },
+    "source": "AR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AR_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Arunachal Pradesh)",
+    "states": ["AR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel + book allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.arunachal.gov.in/",
+      "official": "https://scholarships.arunachal.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST post-matric students in Arunachal.",
+      "hi": "अरुणाचल प्रदेश में ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "AR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AR_NMMSS",
+    "title": "National Means-cum-Merit Scholarship (Arunachal Pradesh)",
+    "states": ["AR"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 9 },
+    "deadline": "2025-08-31",
+    "benefit": "₹12,000 annual stipend",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.arunachal.gov.in/",
+      "official": "https://scholarships.arunachal.gov.in/"
+    },
+    "summary": {
+      "en": "Means-cum-merit scholarship for Class 9 students in Arunachal.",
+      "hi": "अरुणाचल प्रदेश के कक्षा 9 छात्रों हेतु।"
+    },
+    "source": "AR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AR_DISABLED",
+    "title": "Scholarship for Disabled Students (Arunachal Pradesh)",
+    "states": ["AR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.arunachal.gov.in/",
+      "official": "https://scholarships.arunachal.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled school students in Arunachal.",
+      "hi": "अरुणाचल के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "AR Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AR_TRIBAL_GIRLS",
+    "title": "Scholarship for Tribal Girls (Arunachal Pradesh)",
+    "states": ["AR"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Free hostel + cash stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.arunachal.gov.in/",
+      "official": "https://scholarships.arunachal.gov.in/"
+    },
+    "summary": {
+      "en": "Educational support for tribal girl students in Arunachal Pradesh.",
+      "hi": "अरुणाचल प्रदेश की आदिवासी बालिकाओं हेतु सहायता।"
+    },
+    "source": "AR Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "MN_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Manipur)",
+    "states": ["MN"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹100–₹350 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.manipur.gov.in/",
+      "official": "https://scholarships.manipur.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC schoolchildren in Manipur.",
+      "hi": "मणिपुर के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "MN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MN_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Manipur)",
+    "states": ["MN"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel support",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.manipur.gov.in/",
+      "official": "https://scholarships.manipur.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric support for SC students in Manipur.",
+      "hi": "मणिपुर के SC छात्रों हेतु पोस्ट-मैट्रिक सहायता।"
+    },
+    "source": "MN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MN_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Manipur)",
+    "states": ["MN"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.manipur.gov.in/",
+      "official": "https://scholarships.manipur.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST school students in Manipur.",
+      "hi": "मणिपुर के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "MN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MN_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Manipur)",
+    "states": ["MN"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + book allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.manipur.gov.in/",
+      "official": "https://scholarships.manipur.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Manipur post-matric classes.",
+      "hi": "मणिपुर के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "MN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MN_DISABLED",
+    "title": "Scholarship for Disabled Students (Manipur)",
+    "states": ["MN"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarships.manipur.gov.in/",
+      "official": "https://scholarships.manipur.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled children in Manipur.",
+      "hi": "मणिपुर के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "MN Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "ML_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Meghalaya)",
+    "states": ["ML"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://megeducation.gov.in/",
+      "official": "https://megeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC schoolchildren in Meghalaya.",
+      "hi": "मेघालय के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "Meghalaya Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "ML_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Meghalaya)",
+    "states": ["ML"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://megeducation.gov.in/",
+      "official": "https://megeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC students in post-matric education in Meghalaya.",
+      "hi": "मेघालय में SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Meghalaya Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "ML_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Meghalaya)",
+    "states": ["ML"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://megeducation.gov.in/",
+      "official": "https://megeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST schoolchildren in Meghalaya.",
+      "hi": "मेघालय के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "Meghalaya Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "ML_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Meghalaya)",
+    "states": ["ML"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + maintenance allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://megeducation.gov.in/",
+      "official": "https://megeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in post-matric education in Meghalaya.",
+      "hi": "मेघालय के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Meghalaya Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "ML_DISABLED",
+    "title": "Scholarship for Disabled Students (Meghalaya)",
+    "states": ["ML"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://megeducation.gov.in/",
+      "official": "https://megeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled schoolchildren in Meghalaya.",
+      "hi": "मेघालय के दिव्यांग स्कूली छात्रों हेतु।"
+    },
+    "source": "Meghalaya Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "MZ_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Mizoram)",
+    "states": ["MZ"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.mizoram.gov.in/",
+      "official": "https://scholarship.mizoram.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST schoolchildren in Mizoram.",
+      "hi": "मिज़ोरम के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "Mizoram Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MZ_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Mizoram)",
+    "states": ["MZ"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel support",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.mizoram.gov.in/",
+      "official": "https://scholarship.mizoram.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric support for ST students in Mizoram.",
+      "hi": "मिज़ोरम के ST छात्रों हेतु पोस्ट-मैट्रिक सहायता।"
+    },
+    "source": "Mizoram Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MZ_NMMSS",
+    "title": "National Means-cum-Merit Scholarship (Mizoram)",
+    "states": ["MZ"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 9 },
+    "deadline": "2025-08-31",
+    "benefit": "₹12,000 annual stipend",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.mizoram.gov.in/",
+      "official": "https://scholarship.mizoram.gov.in/"
+    },
+    "summary": {
+      "en": "Means-cum-merit support for Class 9 students in Mizoram.",
+      "hi": "मिज़ोरम के कक्षा 9 छात्रों हेतु।"
+    },
+    "source": "Mizoram Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MZ_DISABLED",
+    "title": "Scholarship for Disabled Students (Mizoram)",
+    "states": ["MZ"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.mizoram.gov.in/",
+      "official": "https://scholarship.mizoram.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled schoolchildren in Mizoram.",
+      "hi": "मिज़ोरम के दिव्यांग स्कूली छात्रों हेतु।"
+    },
+    "source": "Mizoram Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MZ_TRIBAL_GIRL",
+    "title": "Tribal Girl Child Scholarship (Mizoram)",
+    "states": ["MZ"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹300–₹800 stipend + hostel facility",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.mizoram.gov.in/",
+      "official": "https://scholarship.mizoram.gov.in/"
+    },
+    "summary": {
+      "en": "Support for tribal girl students in Mizoram.",
+      "hi": "मिज़ोरम की आदिवासी बालिकाओं हेतु सहायता।"
+    },
+    "source": "Mizoram Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "NL_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Nagaland)",
+    "states": ["NL"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.nagaland.gov.in/",
+      "official": "https://scholarship.nagaland.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Nagaland (Classes 6–10).",
+      "hi": "नगालैंड के ST छात्रों हेतु (कक्षा 6–10)।"
+    },
+    "source": "Nagaland Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "NL_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Nagaland)",
+    "states": ["NL"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.nagaland.gov.in/",
+      "official": "https://scholarship.nagaland.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Nagaland post-matric.",
+      "hi": "नगालैंड के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Nagaland Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "NL_NMMSS",
+    "title": "National Means-cum-Merit Scholarship (Nagaland)",
+    "states": ["NL"],
+    "boards": ["Any"],
+    "grades": { "min": 9, "max": 9 },
+    "deadline": "2025-08-31",
+    "benefit": "₹12,000 annual stipend",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.nagaland.gov.in/",
+      "official": "https://scholarship.nagaland.gov.in/"
+    },
+    "summary": {
+      "en": "Means-cum-merit support for Class 9 students in Nagaland.",
+      "hi": "नगालैंड के कक्षा 9 छात्रों हेतु।"
+    },
+    "source": "Nagaland Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "NL_DISABLED",
+    "title": "Scholarship for Disabled Students (Nagaland)",
+    "states": ["NL"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.nagaland.gov.in/",
+      "official": "https://scholarship.nagaland.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled children in Nagaland.",
+      "hi": "नगालैंड के दिव्यांग बच्चों हेतु।"
+    },
+    "source": "Nagaland Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "NL_TRIBAL_GIRL",
+    "title": "Scholarship for Tribal Girl Students (Nagaland)",
+    "states": ["NL"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹500 stipend + hostel facility",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.nagaland.gov.in/",
+      "official": "https://scholarship.nagaland.gov.in/"
+    },
+    "summary": {
+      "en": "Educational aid for tribal girl students in Nagaland.",
+      "hi": "नगालैंड की आदिवासी बालिकाओं हेतु।"
+    },
+    "source": "Nagaland Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "SK_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Sikkim)",
+    "states": ["SK"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-10",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sikkim.gov.in/",
+      "official": "https://sikkim.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC school students in Sikkim.",
+      "hi": "सिक्किम के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "Sikkim Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "SK_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Sikkim)",
+    "states": ["SK"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sikkim.gov.in/",
+      "official": "https://sikkim.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC students in post-matric classes in Sikkim.",
+      "hi": "सिक्किम के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Sikkim Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "SK_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Sikkim)",
+    "states": ["SK"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sikkim.gov.in/",
+      "official": "https://sikkim.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Sikkim schools.",
+      "hi": "सिक्किम के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "Sikkim Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "SK_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Sikkim)",
+    "states": ["SK"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + maintenance allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sikkim.gov.in/",
+      "official": "https://sikkim.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric support for ST students in Sikkim.",
+      "hi": "सिक्किम के ST छात्रों हेतु पोस्ट-मैट्रिक सहायता।"
+    },
+    "source": "Sikkim Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "SK_DISABLED",
+    "title": "Scholarship for Disabled Students (Sikkim)",
+    "states": ["SK"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://sikkim.gov.in/",
+      "official": "https://sikkim.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled schoolchildren in Sikkim.",
+      "hi": "सिक्किम के दिव्यांग बच्चों हेतु।"
+    },
+    "source": "Sikkim Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "TR_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Tripura)",
+    "states": ["TR"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tripura.gov.in/",
+      "official": "https://tripura.gov.in/"
+    },
+    "summary": {
+      "en": "Stipend for SC students in Tripura schools.",
+      "hi": "त्रिपुरा के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "Tripura Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "TR_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Tripura)",
+    "states": ["TR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tripura.gov.in/",
+      "official": "https://tripura.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC post-matric students in Tripura.",
+      "hi": "त्रिपुरा के SC पोस्ट-मैट्रिक छात्रों हेतु।"
+    },
+    "source": "Tripura Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TR_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Tripura)",
+    "states": ["TR"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tripura.gov.in/",
+      "official": "https://tripura.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST school students in Tripura.",
+      "hi": "त्रिपुरा के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "Tripura Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TR_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Tripura)",
+    "states": ["TR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Tuition + hostel + maintenance allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tripura.gov.in/",
+      "official": "https://tripura.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for ST students in Tripura.",
+      "hi": "त्रिपुरा के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Tripura Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TR_DISABLED",
+    "title": "Scholarship for Disabled Students (Tripura)",
+    "states": ["TR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹600 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tripura.gov.in/",
+      "official": "https://tripura.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled children in Tripura.",
+      "hi": "त्रिपुरा के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "Tripura Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TR_MINORITY",
+    "title": "Minority Scholarship (Tripura)",
+    "states": ["TR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + stipend",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://tripura.gov.in/",
+      "official": "https://tripura.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for minority students in Tripura.",
+      "hi": "त्रिपुरा के अल्पसंख्यक छात्रों हेतु।"
+    },
+    "source": "Tripura Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "GA_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Goa)",
+    "states": ["GA"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.goa.gov.in/",
+      "official": "https://scholarship.goa.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC school students in Goa.",
+      "hi": "गोवा के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "Goa Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GA_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Goa)",
+    "states": ["GA"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + maintenance allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.goa.gov.in/",
+      "official": "https://scholarship.goa.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC post-matric students in Goa.",
+      "hi": "गोवा के SC पोस्ट-मैट्रिक छात्रों हेतु।"
+    },
+    "source": "Goa Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GA_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Goa)",
+    "states": ["GA"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.goa.gov.in/",
+      "official": "https://scholarship.goa.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Goa schools.",
+      "hi": "गोवा के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "Goa Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GA_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Goa)",
+    "states": ["GA"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.goa.gov.in/",
+      "official": "https://scholarship.goa.gov.in/"
+    },
+    "summary": {
+      "en": "Support for ST post-matric students in Goa.",
+      "hi": "गोवा के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Goa Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "GA_DISABLED",
+    "title": "Scholarship for Disabled Students (Goa)",
+    "states": ["GA"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://scholarship.goa.gov.in/",
+      "official": "https://scholarship.goa.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled schoolchildren in Goa.",
+      "hi": "गोवा के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "Goa Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "HP_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Himachal Pradesh)",
+    "states": ["HP"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://hpepass.cgg.gov.in/",
+      "official": "https://hpepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC school students in Himachal Pradesh.",
+      "hi": "हिमाचल प्रदेश के SC स्कूली छात्रों हेतु।"
+    },
+    "source": "HP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HP_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (HP)",
+    "states": ["HP"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://hpepass.cgg.gov.in/",
+      "official": "https://hpepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Support for SC post-matric students in Himachal.",
+      "hi": "हिमाचल प्रदेश के SC पोस्ट-मैट्रिक छात्रों हेतु।"
+    },
+    "source": "HP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HP_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (HP)",
+    "states": ["HP"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://hpepass.cgg.gov.in/",
+      "official": "https://hpepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in Himachal schools.",
+      "hi": "हिमाचल प्रदेश के ST स्कूली छात्रों हेतु।"
+    },
+    "source": "HP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HP_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (HP)",
+    "states": ["HP"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://hpepass.cgg.gov.in/",
+      "official": "https://hpepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST post-matric students in Himachal.",
+      "hi": "हिमाचल प्रदेश के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "HP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "HP_MERIT",
+    "title": "Swami Vivekananda Utkrisht Chatravriti Yojana (HP)",
+    "states": ["HP"],
+    "boards": ["STATE"],
+    "grades": { "min": 10, "max": 12 },
+    "deadline": "2025-11-01",
+    "benefit": "₹10,000 annual for top 2000 students",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://hpepass.cgg.gov.in/",
+      "official": "https://hpepass.cgg.gov.in/"
+    },
+    "summary": {
+      "en": "Merit-based scholarship for top Himachal students.",
+      "hi": "हिमाचल प्रदेश के मेधावी छात्रों हेतु।"
+    },
+    "source": "HP Govt",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "BR_PRE_MATRIC_SC_ST",
+    "title": "Pre-Matric Scholarship for SC/ST Students (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹350 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://pmsonline.bih.nic.in/",
+      "official": "https://pmsonline.bih.nic.in/"
+    },
+    "summary": {
+      "en": "Pre-matric scholarship for SC/ST students in Bihar.",
+      "hi": "बिहार के SC/ST छात्रों हेतु प्री-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_POST_MATRIC_SC_ST",
+    "title": "Post-Matric Scholarship for SC/ST Students (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://pmsonline.bih.nic.in/",
+      "official": "https://pmsonline.bih.nic.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for SC/ST students in Bihar.",
+      "hi": "बिहार के SC/ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_POST_MATRIC_OBC_EBC",
+    "title": "Post-Matric Scholarship for OBC/EBC Students (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Fee reimbursement",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://pmsonline.bih.nic.in/",
+      "official": "https://pmsonline.bih.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for OBC/EBC students of Bihar.",
+      "hi": "बिहार के OBC/EBC छात्रों हेतु।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_GIRL_CHILD",
+    "title": "Mukhyamantri Kanya Utthan Yojana (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹10,000–₹25,000 support for girls' education",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://state.bihar.gov.in/",
+      "official": "https://state.bihar.gov.in/"
+    },
+    "summary": {
+      "en": "Financial aid for girls in Bihar to continue education.",
+      "hi": "बिहार की बालिकाओं हेतु शैक्षिक सहायता।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "BR_DISABLED",
+    "title": "Scholarship for Disabled Students (Bihar)",
+    "states": ["BR"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://pmsonline.bih.nic.in/",
+      "official": "https://pmsonline.bih.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled students in Bihar.",
+      "hi": "बिहार के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "Bihar Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "UK_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Uttarakhand)",
+    "states": ["UK"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://escholarship.uk.gov.in/",
+      "official": "https://escholarship.uk.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC school students in Uttarakhand.",
+      "hi": "उत्तराखंड के SC छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "UK Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UK_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (Uttarakhand)",
+    "states": ["UK"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://escholarship.uk.gov.in/",
+      "official": "https://escholarship.uk.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric support for SC students in Uttarakhand.",
+      "hi": "उत्तराखंड के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "UK Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UK_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Uttarakhand)",
+    "states": ["UK"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://escholarship.uk.gov.in/",
+      "official": "https://escholarship.uk.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST school students in Uttarakhand.",
+      "hi": "उत्तराखंड के ST छात्रों हेतु।"
+    },
+    "source": "UK Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UK_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Uttarakhand)",
+    "states": ["UK"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + hostel support",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://escholarship.uk.gov.in/",
+      "official": "https://escholarship.uk.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST post-matric students in Uttarakhand.",
+      "hi": "उत्तराखंड के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "UK Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "UK_DISABLED",
+    "title": "Scholarship for Disabled Students (Uttarakhand)",
+    "states": ["UK"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://escholarship.uk.gov.in/",
+      "official": "https://escholarship.uk.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled school students in Uttarakhand.",
+      "hi": "उत्तराखंड के दिव्यांग छात्रों हेतु।"
+    },
+    "source": "UK Govt",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "CH_SC_PREMATRIC",
+    "title": "Pre-Matric Scholarship for SC Students (Chandigarh)",
+    "states": ["CH"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹350 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://chdeducation.gov.in/",
+      "official": "https://chdeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC students in Chandigarh schools.",
+      "hi": "चंडीगढ़ के SC छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "Chandigarh UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "CH_SC_POSTMATRIC",
+    "title": "Post-Matric Scholarship for SC Students (Chandigarh)",
+    "states": ["CH"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://chdeducation.gov.in/",
+      "official": "https://chdeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for SC students in Chandigarh.",
+      "hi": "चंडीगढ़ के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Chandigarh UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "CH_OBC_POSTMATRIC",
+    "title": "Post-Matric Scholarship for OBC Students (Chandigarh)",
+    "states": ["CH"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-25",
+    "benefit": "Tuition reimbursement",
+    "requires": ["caste_certificate", "income_certificate"],
+    "links": {
+      "apply": "https://chdeducation.gov.in/",
+      "official": "https://chdeducation.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for OBC students in Chandigarh post-matric education.",
+      "hi": "चंडीगढ़ के OBC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Chandigarh UT",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "LA_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Ladakh)",
+    "states": ["LA"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ladakh.gov.in/",
+      "official": "https://ladakh.gov.in/"
+    },
+    "summary": {
+      "en": "Pre-matric scholarship for tribal students in Ladakh.",
+      "hi": "लद्दाख के जनजातीय छात्रों हेतु प्री-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Ladakh UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LA_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Ladakh)",
+    "states": ["LA"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ladakh.gov.in/",
+      "official": "https://ladakh.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for ST students in Ladakh.",
+      "hi": "लद्दाख के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "Ladakh UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LA_DISABLED",
+    "title": "Scholarship for Disabled Students (Ladakh)",
+    "states": ["LA"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["disability_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ladakh.gov.in/",
+      "official": "https://ladakh.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for disabled students in Ladakh.",
+      "hi": "लद्दाख के दिव्यांग छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "Ladakh UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LA_GIRL_CHILD",
+    "title": "Girl Child Education Scholarship (Ladakh)",
+    "states": ["LA"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹500–₹1000 annual support",
+    "requires": ["birth_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ladakh.gov.in/",
+      "official": "https://ladakh.gov.in/"
+    },
+    "summary": {
+      "en": "Educational assistance for girl children in Ladakh.",
+      "hi": "लद्दाख की बालिकाओं हेतु शैक्षिक सहायता।"
+    },
+    "source": "Ladakh UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LA_MINORITY",
+    "title": "Minority Scholarship (Ladakh)",
+    "states": ["LA"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition fee reimbursement",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://ladakh.gov.in/",
+      "official": "https://ladakh.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for minority students in Ladakh.",
+      "hi": "लद्दाख के अल्पसंख्यक छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "Ladakh UT",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "JK_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (J&K)",
+    "states": ["JK"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹350 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jkdswdj.jk.gov.in/",
+      "official": "https://jkdswdj.jk.gov.in/"
+    },
+    "summary": {
+      "en": "Scholarship for SC students in Jammu & Kashmir schools.",
+      "hi": "जम्मू एवं कश्मीर के SC छात्रों हेतु छात्रवृत्ति।"
+    },
+    "source": "J&K UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JK_POST_MATRIC_SC",
+    "title": "Post-Matric Scholarship for SC Students (J&K)",
+    "states": ["JK"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-20",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jkdswdj.jk.gov.in/",
+      "official": "https://jkdswdj.jk.gov.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for SC students in J&K.",
+      "hi": "जम्मू एवं कश्मीर के SC छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "J&K UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JK_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (J&K)",
+    "states": ["JK"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-25",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jktribal.nic.in/",
+      "official": "https://jktribal.nic.in/"
+    },
+    "summary": {
+      "en": "Scholarship for ST students in J&K schools.",
+      "hi": "जम्मू एवं कश्मीर के ST छात्रों हेतु।"
+    },
+    "source": "J&K UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JK_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (J&K)",
+    "states": ["JK"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + hostel allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": {
+      "apply": "https://jktribal.nic.in/",
+      "official": "https://jktribal.nic.in/"
+    },
+    "summary": {
+      "en": "Post-matric scholarship for ST students in J&K.",
+      "hi": "जम्मू एवं कश्मीर के ST छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति।"
+    },
+    "source": "J&K UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "JK_PROF_GIRLS",
+    "title": "Prime Minister’s Special Scholarship Scheme (PMSSS - J&K)",
+    "states": ["JK"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-07-31",
+    "benefit": "Full tuition + hostel + maintenance allowance",
+    "requires": ["marksheet", "aadhaar"],
+    "links": {
+      "apply": "https://aicte-india.org/",
+      "official": "https://aicte-india.org/"
+    },
+    "summary": {
+      "en": "Scholarship for J&K and Ladakh students pursuing higher education across India.",
+      "hi": "जम्मू-कश्मीर व लद्दाख के छात्रों हेतु अखिल भारतीय उच्च शिक्षा छात्रवृत्ति।"
+    },
+    "source": "AICTE",
+    "last_updated": "2025-08-29"
+  },
+  
+  {
+    "id": "MP_MMJKY_TUITION_WAIVER",
+    "title": "Mukhyamantri Jan Kalyan (Shiksha Protsahan) Yojana",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 800000,
+    "deadline": "2025-09-30",
+    "benefit": "Full tuition fee waiver in govt./private institutions for eligible courses",
+    "requires": ["marksheet", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://scholarshipportal.mp.nic.in/", "official": "https://scholarshipportal.mp.nic.in/" },
+    "summary": { "en": "Tuition waiver for MP residents from low-income families entering UG/professional programs.", "hi": "कम आय परिवारों के MP छात्रों हेतु UG/व्यावसायिक पाठ्यक्रमों में पूर्ण शुल्क माफी।" },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_PRATIBHA_KIRAN_GIRLS",
+    "title": "Pratibha Kiran Yojana (Urban Poor Girls)",
+    "states": ["MP"],
+    "boards": ["STATE"],
+    "grades": { "min": 12, "max": 12 },
+    "income_max": 120000,
+    "deadline": "2025-09-25",
+    "benefit": "₹500 per month up to graduation",
+    "requires": ["income_certificate", "urban_poverty_certificate", "marksheet"],
+    "links": { "apply": "https://scholarshipportal.mp.nic.in/", "official": "https://scholarshipportal.mp.nic.in/" },
+    "summary": { "en": "Monthly scholarship for urban BPL girl students who passed Class 12.", "hi": "शहरों की BPL बालिकाओं (12वीं उत्तीर्ण) हेतु मासिक छात्रवृत्ति।" },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_TRIBAL_GIRLS_HOSTEL",
+    "title": "ST Girls Residential & Education Support",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "Free hostel + books + uniform + stipend",
+    "requires": ["tribal_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://tribal.mp.gov.in/", "official": "https://tribal.mp.gov.in/" },
+    "summary": { "en": "Residential schooling support for tribal girl students.", "hi": "आदिवासी छात्राओं हेतु आवासीय शिक्षा सहायता।" },
+    "source": "Tribal Welfare Dept. MP",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_POST_MATRIC_MINORITY",
+    "title": "Post-Matric Scholarship for Minorities (MP)",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 200000,
+    "deadline": "2025-09-30",
+    "benefit": "Tuition reimbursement + maintenance allowance",
+    "requires": ["minority_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://scholarshipportal.mp.nic.in/", "official": "https://scholarshipportal.mp.nic.in/" },
+    "summary": { "en": "Support for minority students pursuing Classes 11–12 in MP.", "hi": "MP के अल्पसंख्यक छात्रों (11–12) हेतु सहायता।" },
+    "source": "MP Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "MP_PRE_MATRIC_DISABLED",
+    "title": "Pre-Matric Scholarship for Students with Disabilities (MP)",
+    "states": ["MP"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "deadline": "2025-09-20",
+    "benefit": "₹200–₹600 monthly + aids/appliances support",
+    "requires": ["disability_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://scholarshipportal.mp.nic.in/", "official": "https://socialjustice.mp.gov.in/" },
+    "summary": { "en": "Scholarship for school students with disabilities.", "hi": "दिव्यांग स्कूली छात्रों हेतु छात्रवृत्ति।" },
+    "source": "MP Social Justice Dept.",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "TN_PUDHUMAI_PENN",
+    "title": "Pudhumai Penn Scheme (Moovalur Ramamirtham Higher Education Assurance)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-10-15",
+    "benefit": "₹1,000 per month for girls in Govt/Govt-aided schools continuing UG/Diploma",
+    "requires": ["school_certificate", "aadhaar", "admission_proof"],
+    "links": { "apply": "https://www.tn.gov.in/schemes/", "official": "https://www.tn.gov.in/schemes/" },
+    "summary": { "en": "Monthly support for TN girl students transitioning from Class 6–12 govt schools to higher education.", "hi": "सरकारी/सहायता प्राप्त स्कूलों की छात्राओं हेतु उच्च शिक्षा में ₹1,000/माह।" },
+    "source": "TN Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_FIRST_GRADUATE_CONCESSION",
+    "title": "First Graduate Fee Concession",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-09-30",
+    "benefit": "Full/partial tuition fee concession for first graduate in family",
+    "requires": ["first_graduate_certificate", "marksheet", "aadhaar"],
+    "links": { "apply": "https://www.tn.gov.in/", "official": "https://www.tn.gov.in/" },
+    "summary": { "en": "Fee concession for first-generation graduates of TN.", "hi": "TN के प्रथम स्नातक बनने वाले छात्रों हेतु शुल्क रियायत।" },
+    "source": "TN Higher Education",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_SC_PRE_MATRIC",
+    "title": "Pre-Matric Scholarship for SC Students (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "income_max": 250000,
+    "deadline": "2025-09-20",
+    "benefit": "₹150–₹400 stipend + books",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://www.tn.gov.in/", "official": "https://www.tn.gov.in/" },
+    "summary": { "en": "Stipend for SC schoolchildren in Tamil Nadu.", "hi": "तमिलनाडु के SC स्कूली छात्रों हेतु भत्ता।" },
+    "source": "Adidravidar & Tribal Welfare TN",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_SC_POST_MATRIC",
+    "title": "Post-Matric Scholarship for SC Students (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-30",
+    "benefit": "Tuition + exam fee + maintenance",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://www.tn.gov.in/", "official": "https://www.tn.gov.in/" },
+    "summary": { "en": "Support for SC students in Classes 11–12 and above.", "hi": "SC छात्रों हेतु 11–12 व उच्च स्तर पर सहायता।" },
+    "source": "Adidravidar & Tribal Welfare TN",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "TN_MINORITY_MCM",
+    "title": "Merit-cum-Means Scholarship for Minorities (TN)",
+    "states": ["TN"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-25",
+    "benefit": "Tuition reimbursement + stipend",
+    "requires": ["minority_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://www.tn.gov.in/", "official": "https://www.tn.gov.in/" },
+    "summary": { "en": "For meritorious minority students with financial need.", "hi": "आर्थिक रूप से कमजोर मेधावी अल्पसंख्यक छात्रों हेतु।" },
+    "source": "TN Minorities Welfare",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "PY_PERUNTHALAIVAR_KAMARAJAR_FA",
+    "title": "Perunthalaivar Kamarajar Financial Assistance for Higher Education",
+    "states": ["PY"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-10-10",
+    "benefit": "Tuition/hostel fee assistance for UG/professional courses",
+    "requires": ["domicile_certificate", "marksheet", "income_certificate"],
+    "links": { "apply": "https://py.gov.in/", "official": "https://py.gov.in/" },
+    "summary": { "en": "Financial assistance to Puducherry residents for higher studies.", "hi": "पुदुचेरी के निवासियों हेतु उच्च शिक्षा में आर्थिक सहायता।" },
+    "source": "Puducherry Govt",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PY_SC_PRE_MATRIC",
+    "title": "Pre-Matric Scholarship for SC Students (Puducherry)",
+    "states": ["PY"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "income_max": 250000,
+    "deadline": "2025-09-18",
+    "benefit": "₹150–₹400 stipend + book grant",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://adw.py.gov.in/", "official": "https://adw.py.gov.in/" },
+    "summary": { "en": "Stipend for SC schoolchildren in Puducherry.", "hi": "पुदुचेरी के SC स्कूली छात्रों हेतु भत्ता।" },
+    "source": "Adi Dravidar Welfare Dept. PY",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PY_SC_POST_MATRIC",
+    "title": "Post-Matric Scholarship for SC Students (Puducherry)",
+    "states": ["PY"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-25",
+    "benefit": "Tuition + maintenance allowance",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://adw.py.gov.in/", "official": "https://adw.py.gov.in/" },
+    "summary": { "en": "Support for SC students in Classes 11–12 and above.", "hi": "SC छात्रों हेतु 11–12 व उससे ऊपर के लिए सहायता।" },
+    "source": "Adi Dravidar Welfare Dept. PY",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PY_MBC_DNC_POST_MATRIC",
+    "title": "Post-Matric Scholarship for MBC/DNC Students (Puducherry)",
+    "states": ["PY"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 200000,
+    "deadline": "2025-09-28",
+    "benefit": "Fee reimbursement + stipend",
+    "requires": ["community_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://bcw.py.gov.in/", "official": "https://bcw.py.gov.in/" },
+    "summary": { "en": "Post-matric support for MBC/DNC students of Puducherry.", "hi": "MBC/DNC छात्रों हेतु पोस्ट-मैट्रिक सहायता।" },
+    "source": "Backward Classes & Minorities Welfare PY",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "PY_DISABLED_SCHOLARSHIP",
+    "title": "Scholarship for Students with Disabilities (Puducherry)",
+    "states": ["PY"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-10-05",
+    "benefit": "₹200–₹600 monthly + assistive devices support",
+    "requires": ["disability_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://py.gov.in/", "official": "https://py.gov.in/" },
+    "summary": { "en": "Educational stipend for students with disabilities.", "hi": "दिव्यांग छात्रों हेतु शैक्षिक छात्रवृत्ति।" },
+    "source": "Puducherry Social Welfare",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "AN_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (Andaman & Nicobar)",
+    "states": ["AN"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-15",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": { "apply": "https://andaman.gov.in/", "official": "https://andaman.gov.in/" },
+    "summary": { "en": "Stipend for SC schoolchildren in A&N Islands.", "hi": "अंडमान-निकोबार के SC स्कूली छात्रों हेतु।" },
+    "source": "A&N Administration",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AN_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Andaman & Nicobar)",
+    "states": ["AN"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-22",
+    "benefit": "Tuition + hostel + books",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": { "apply": "https://andaman.gov.in/", "official": "https://andaman.gov.in/" },
+    "summary": { "en": "Post-matric support for ST students in A&N.", "hi": "अंडमान-निकोबार के ST छात्रों हेतु पोस्ट-मैट्रिक सहायता।" },
+    "source": "A&N Administration",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AN_MINORITY_PRE_MATRIC",
+    "title": "Pre-Matric Scholarship for Minorities (Andaman & Nicobar)",
+    "states": ["AN"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 10 },
+    "income_max": 100000,
+    "deadline": "2025-09-25",
+    "benefit": "₹100–₹500 stipend",
+    "requires": ["minority_certificate", "aadhaar"],
+    "links": { "apply": "https://andaman.gov.in/", "official": "https://andaman.gov.in/" },
+    "summary": { "en": "Scholarship for minority schoolchildren in A&N Islands.", "hi": "अंडमान-निकोबार के अल्पसंख्यक स्कूली छात्रों हेतु।" },
+    "source": "A&N Administration",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AN_SENIOR_SECONDARY_MERIT",
+    "title": "Senior Secondary Merit Award (Andaman & Nicobar)",
+    "states": ["AN"],
+    "boards": ["Any"],
+    "grades": { "min": 12, "max": 12 },
+    "deadline": "2025-08-31",
+    "benefit": "₹5,000–₹20,000 one-time merit award",
+    "requires": ["marksheet", "aadhaar"],
+    "links": { "apply": "https://andaman.gov.in/", "official": "https://andaman.gov.in/" },
+    "summary": { "en": "One-time merit award for Class 12 toppers.", "hi": "कक्षा 12 टॉपर्स हेतु एकमुश्त मेधावी पुरस्कार।" },
+    "source": "A&N Education Dept.",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "AN_DISABLED_STUDENTS",
+    "title": "Scholarship for Students with Disabilities (Andaman & Nicobar)",
+    "states": ["AN"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-10-05",
+    "benefit": "₹200–₹600 stipend + aids/appliances",
+    "requires": ["disability_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://andaman.gov.in/", "official": "https://andaman.gov.in/" },
+    "summary": { "en": "Educational stipend for students with disabilities.", "hi": "दिव्यांग छात्रों हेतु शैक्षिक छात्रवृत्ति।" },
+    "source": "A&N Social Welfare",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "LD_PRE_MATRIC_ST",
+    "title": "Pre-Matric Scholarship for ST Students (Lakshadweep)",
+    "states": ["LD"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-18",
+    "benefit": "₹200–₹500 stipend",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": { "apply": "https://lakshadweep.gov.in/", "official": "https://lakshadweep.gov.in/" },
+    "summary": { "en": "Scholarship for ST schoolchildren in Lakshadweep.", "hi": "लक्षद्वीप के ST स्कूली छात्रों हेतु।" },
+    "source": "Lakshadweep UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LD_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (Lakshadweep)",
+    "states": ["LD"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-24",
+    "benefit": "Tuition + maintenance + hostel",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": { "apply": "https://lakshadweep.gov.in/", "official": "https://lakshadweep.gov.in/" },
+    "summary": { "en": "Post-matric support for ST students in Lakshadweep.", "hi": "लक्षद्वीप के ST छात्रों हेतु पोस्ट-मैट्रिक सहायता।" },
+    "source": "Lakshadweep UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LD_MINORITY_MCM",
+    "title": "Merit-cum-Means Scholarship for Minorities (Lakshadweep)",
+    "states": ["LD"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 250000,
+    "deadline": "2025-09-28",
+    "benefit": "Tuition reimbursement + stipend",
+    "requires": ["minority_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://lakshadweep.gov.in/", "official": "https://lakshadweep.gov.in/" },
+    "summary": { "en": "Support for minority students with financial need.", "hi": "आर्थिक रूप से कमजोर अल्पसंख्यक छात्रों हेतु।" },
+    "source": "Lakshadweep UT",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LD_FISHERMEN_CHILDREN",
+    "title": "Scholarship for Fishermen’s Children (Lakshadweep)",
+    "states": ["LD"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹1000–₹3000 per year + books",
+    "requires": ["parent_fishermen_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://lakshadweep.gov.in/", "official": "https://lakshadweep.gov.in/" },
+    "summary": { "en": "Educational support for children of registered fishermen.", "hi": "पंजीकृत मछुआरों के बच्चों हेतु शिक्षा सहायता।" },
+    "source": "Lakshadweep Fisheries/Education",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "LD_DISABLED_STUDENTS",
+    "title": "Scholarship for Students with Disabilities (Lakshadweep)",
+    "states": ["LD"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-10-05",
+    "benefit": "₹200–₹600 stipend + devices",
+    "requires": ["disability_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://lakshadweep.gov.in/", "official": "https://lakshadweep.gov.in/" },
+    "summary": { "en": "Stipend and aids for students with disabilities.", "hi": "दिव्यांग छात्रों हेतु छात्रवृत्ति व उपकरण।" },
+    "source": "Lakshadweep Social Welfare",
+    "last_updated": "2025-08-29"
+  },
+
+  {
+    "id": "DNHDD_PRE_MATRIC_SC",
+    "title": "Pre-Matric Scholarship for SC Students (DNH & DD)",
+    "states": ["DNHDD"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 10 },
+    "deadline": "2025-09-16",
+    "benefit": "₹150–₹400 stipend",
+    "requires": ["caste_certificate", "aadhaar"],
+    "links": { "apply": "https://dnh.gov.in/", "official": "https://daman.nic.in/" },
+    "summary": { "en": "Stipend for SC schoolchildren in the UT.", "hi": "केंद्र शासित प्रदेश के SC स्कूली छात्रों हेतु।" },
+    "source": "DNH & DD Administration",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DNHDD_POST_MATRIC_ST",
+    "title": "Post-Matric Scholarship for ST Students (DNH & DD)",
+    "states": ["DNHDD"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "deadline": "2025-09-23",
+    "benefit": "Tuition + hostel + book allowance",
+    "requires": ["tribal_certificate", "aadhaar"],
+    "links": { "apply": "https://dnh.gov.in/", "official": "https://dnh.gov.in/" },
+    "summary": { "en": "Post-matric support for ST students in the UT.", "hi": "ST छात्रों हेतु पोस्ट-मैट्रिक सहायता।" },
+    "source": "DNH & DD Administration",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DNHDD_OBC_POST_MATRIC",
+    "title": "Post-Matric Scholarship for OBC Students (DNH & DD)",
+    "states": ["DNHDD"],
+    "boards": ["Any"],
+    "grades": { "min": 11, "max": 12 },
+    "income_max": 200000,
+    "deadline": "2025-09-27",
+    "benefit": "Fee reimbursement",
+    "requires": ["caste_certificate", "income_certificate", "aadhaar"],
+    "links": { "apply": "https://dnh.gov.in/", "official": "https://dnh.gov.in/" },
+    "summary": { "en": "Scholarship for OBC students in Classes 11–12.", "hi": "OBC छात्रों (11–12) हेतु छात्रवृत्ति।" },
+    "source": "DNH & DD Administration",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DNHDD_TRIBAL_MERIT",
+    "title": "Tribal Merit Scholarship (DNH & DD)",
+    "states": ["DNHDD"],
+    "boards": ["Any"],
+    "grades": { "min": 6, "max": 12 },
+    "deadline": "2025-12-31",
+    "benefit": "₹1000–₹5000 annual merit award",
+    "requires": ["tribal_certificate", "marksheet", "aadhaar"],
+    "links": { "apply": "https://dnh.gov.in/", "official": "https://dnh.gov.in/" },
+    "summary": { "en": "Merit awards for tribal school students.", "hi": "आदिवासी स्कूली छात्रों हेतु मेधा पुरस्कार।" },
+    "source": "DNH & DD Tribal Dept.",
+    "last_updated": "2025-08-29"
+  },
+  {
+    "id": "DNHDD_DISABLED",
+    "title": "Scholarship for Students with Disabilities (DNH & DD)",
+    "states": ["DNHDD"],
+    "boards": ["Any"],
+    "grades": { "min": 1, "max": 12 },
+    "deadline": "2025-10-06",
+    "benefit": "₹200–₹600 stipend + aids",
+    "requires": ["disability_certificate", "school_certificate", "aadhaar"],
+    "links": { "apply": "https://dnh.gov.in/", "official": "https://dnh.gov.in/" },
+    "summary": { "en": "Educational stipend for students with disabilities.", "hi": "दिव्यांग छात्रों हेतु शैक्षिक छात्रवृत्ति।" },
+    "source": "DNH & DD Social Welfare",
+    "last_updated": "2025-08-29"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+

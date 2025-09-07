@@ -36,8 +36,3 @@ EduBetter solves these problems by providing:
 - **Deployment:** Vercel / Netlify  
 
 ---
-
-##  Project Structure
-
-## License
-MIT

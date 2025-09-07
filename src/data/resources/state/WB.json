@@ -2,52 +2,85 @@
   {
     "class": 1,
     "languages": {
-      "en": [
-        {
-          "title": "Textbooks Portal / Official Site",
-          "url": "https://wbbse.wb.gov.in/"
-        }
-      ],
-      "hi": [
-        {
-          "title": "पाठ्यपुस्तक पोर्टल / आधिकारिक साइट",
-          "url": "https://wbbse.wb.gov.in/"
-        }
-      ]
+      "en": [{ "title": "All Subjects (Class 1)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 1)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 2,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 2)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 2)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 3,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 3)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 3)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 4,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 4)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 4)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 5,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 5)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 5)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 6,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 6)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 6)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 7,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 7)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 7)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 8,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 8)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 8)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 9,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 9)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 9)", "url": "https://wbbse.wb.gov.in/text-books" }]
     }
   },
   {
     "class": 10,
     "languages": {
-      "en": [
-        {
-          "title": "Class 10 Resources (Official)",
-          "url": "https://wbbse.wb.gov.in/"
-        }
-      ],
-      "hi": [
-        {
-          "title": "कक्षा 10 संसाधन (आधिकारिक)",
-          "url": "https://wbbse.wb.gov.in/"
-        }
-      ]
+      "en": [{ "title": "All Subjects (Class 10)", "url": "https://wbbse.wb.gov.in/text-books" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 10)", "url": "https://wbbse.wb.gov.in/text-books" }]
+    }
+  },
+  {
+    "class": 11,
+    "languages": {
+      "en": [{ "title": "All Subjects (Class 11)", "url": "https://wbchse.wb.gov.in/text-book" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 11)", "url": "https://wbchse.wb.gov.in/text-book" }]
     }
   },
   {
     "class": 12,
     "languages": {
-      "en": [
-        {
-          "title": "Class 12 Resources (Official)",
-          "url": "https://wbbse.wb.gov.in/"
-        }
-      ],
-      "hi": [
-        {
-          "title": "कक्षा 12 संसाधन (आधिकारिक)",
-          "url": "https://wbbse.wb.gov.in/"
-        }
-      ]
+      "en": [{ "title": "All Subjects (Class 12)", "url": "https://wbchse.wb.gov.in/text-book" }],
+      "hi": [{ "title": "सभी विषय (कक्षा 12)", "url": "https://wbchse.wb.gov.in/text-book" }]
     }
   }
 ]

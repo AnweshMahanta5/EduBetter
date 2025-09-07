@@ -3,16 +3,194 @@
     "class": 1,
     "languages": {
       "en": [
-        {
-          "title": "Textbooks Portal / Official Site",
-          "url": "https://upmsp.edu.in/"
-        }
+        { "title": "Hindi", "url": "https://upboardbooks.com/up-board-1st-hindi-books/" },
+        { "title": "English", "url": "https://upboardbooks.com/up-board-1st-english-books/" },
+        { "title": "Mathematics", "url": "https://upboardbooks.com/up-board-1st-mathematics-books/" },
+        { "title": "Drawing", "url": "https://upboardbooks.com/up-board-1st-drawing-books/" },
+        { "title": "Moral Education", "url": "https://upboardbooks.com/up-board-1st-moral-education-books/" }
       ],
       "hi": [
-        {
-          "title": "पाठ्यपुस्तक पोर्टल / आधिकारिक साइट",
-          "url": "https://upmsp.edu.in/"
-        }
+        { "title": "हिन्दी", "url": "https://upboardbooks.com/up-board-1st-hindi-books/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/up-board-1st-english-books/" },
+        { "title": "गणित", "url": "https://upboardbooks.com/up-board-1st-mathematics-books/" },
+        { "title": "चित्रकला", "url": "https://upboardbooks.com/up-board-1st-drawing-books/" },
+        { "title": "नैतिक शिक्षा", "url": "https://upboardbooks.com/up-board-1st-moral-education-books/" }
+      ]
+    }
+  },
+  {
+    "class": 2,
+    "languages": {
+      "en": [
+        { "title": "Hindi", "url": "https://upboardbooks.com/up-board-2nd-hindi-books/" },
+        { "title": "English", "url": "https://upboardbooks.com/up-board-2nd-english-books/" },
+        { "title": "Mathematics", "url": "https://upboardbooks.com/up-board-2nd-mathematics-books/" },
+        { "title": "Environmental Studies", "url": "https://upboardbooks.com/up-board-2nd-evs-books/" },
+        { "title": "Drawing", "url": "https://upboardbooks.com/up-board-2nd-drawing-books/" }
+      ],
+      "hi": [
+        { "title": "हिन्दी", "url": "https://upboardbooks.com/up-board-2nd-hindi-books/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/up-board-2nd-english-books/" },
+        { "title": "गणित", "url": "https://upboardbooks.com/up-board-2nd-mathematics-books/" },
+        { "title": "पर्यावरण अध्ययन", "url": "https://upboardbooks.com/up-board-2nd-evs-books/" },
+        { "title": "चित्रकला", "url": "https://upboardbooks.com/up-board-2nd-drawing-books/" }
+      ]
+    }
+  },
+  {
+    "class": 3,
+    "languages": {
+      "en": [
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-3/hindi/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-3/english/" },
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-3/mathematics/" },
+        { "title": "Environmental Studies", "url": "https://upboardbooks.com/category/class-3/environmental-studies/" },
+        { "title": "General Knowledge", "url": "https://upboardbooks.com/category/class-3/general-knowledge/" },
+        { "title": "Drawing", "url": "https://upboardbooks.com/category/class-3/drawing/" }
+      ],
+      "hi": [
+        { "title": "हिन्दी", "url": "https://upboardbooks.com/category/class-3/hindi/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-3/english/" },
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-3/mathematics/" },
+        { "title": "पर्यावरण अध्ययन", "url": "https://upboardbooks.com/category/class-3/environmental-studies/" },
+        { "title": "सामान्य ज्ञान", "url": "https://upboardbooks.com/category/class-3/general-knowledge/" },
+        { "title": "चित्रकला", "url": "https://upboardbooks.com/category/class-3/drawing/" }
+      ]
+    }
+  },
+  {
+    "class": 4,
+    "languages": {
+      "en": [
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-4/hindi/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-4/english/" },
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-4/mathematics/" },
+        { "title": "Environmental Studies", "url": "https://upboardbooks.com/category/class-4/environmental-studies/" },
+        { "title": "General Knowledge", "url": "https://upboardbooks.com/category/class-4/general-knowledge/" },
+        { "title": "Drawing", "url": "https://upboardbooks.com/category/class-4/drawing/" }
+      ],
+      "hi": [
+        { "title": "हिन्दी", "url": "https://upboardbooks.com/category/class-4/hindi/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-4/english/" },
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-4/mathematics/" },
+        { "title": "पर्यावरण अध्ययन", "url": "https://upboardbooks.com/category/class-4/environmental-studies/" },
+        { "title": "सामान्य ज्ञान", "url": "https://upboardbooks.com/category/class-4/general-knowledge/" },
+        { "title": "चित्रकला", "url": "https://upboardbooks.com/category/class-4/drawing/" }
+      ]
+    }
+  },
+  {
+    "class": 5,
+    "languages": {
+      "en": [
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-5/hindi/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-5/english/" },
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-5/mathematics/" },
+        { "title": "Environmental Studies", "url": "https://upboardbooks.com/category/class-5/environmental-studies/" },
+        { "title": "General Knowledge", "url": "https://upboardbooks.com/category/class-5/general-knowledge/" },
+        { "title": "Drawing", "url": "https://upboardbooks.com/category/class-5/drawing/" }
+      ],
+      "hi": [
+        { "title": "हिन्दी", "url": "https://upboardbooks.com/category/class-5/hindi/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-5/english/" },
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-5/mathematics/" },
+        { "title": "पर्यावरण अध्ययन", "url": "https://upboardbooks.com/category/class-5/environmental-studies/" },
+        { "title": "सामान्य ज्ञान", "url": "https://upboardbooks.com/category/class-5/general-knowledge/" },
+        { "title": "चित्रकला", "url": "https://upboardbooks.com/category/class-5/drawing/" }
+      ]
+    }
+  },
+  {
+    "class": 6,
+    "languages": {
+      "en": [
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-6/mathematics/" },
+        { "title": "Science", "url": "https://upboardbooks.com/category/class-6/science/" },
+        { "title": "Social Science", "url": "https://upboardbooks.com/category/class-6/social-studies/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-6/english/" },
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-6/hindi/" },
+        { "title": "Sanskrit", "url": "https://upboardbooks.com/category/class-6/sanskrit/" },
+        { "title": "Urdu", "url": "https://upboardbooks.com/category/class-6/urdu/" }
+      ],
+      "hi": [
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-6/mathematics/" },
+        { "title": "विज्ञान", "url": "https://upboardbooks.com/category/class-6/science/" },
+        { "title": "सामाजिक अध्ययन", "url": "https://upboardbooks.com/category/class-6/social-studies/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-6/english/" },
+        { "title": "हिंदी", "url": "https://upboardbooks.com/category/class-6/hindi/" },
+        { "title": "संस्कृत", "url": "https://upboardbooks.com/category/class-6/sanskrit/" },
+        { "title": "उर्दू", "url": "https://upboardbooks.com/category/class-6/urdu/" }
+      ]
+    }
+  },
+  {
+    "class": 7,
+    "languages": {
+      "en": [
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-7/mathematics/" },
+        { "title": "Science", "url": "https://upboardbooks.com/category/class-7/science/" },
+        { "title": "Social Science", "url": "https://upboardbooks.com/category/class-7/social-studies/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-7/english/" },
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-7/hindi/" },
+        { "title": "Sanskrit", "url": "https://upboardbooks.com/category/class-7/sanskrit/" },
+        { "title": "Urdu", "url": "https://upboardbooks.com/category/class-7/urdu/" }
+      ],
+      "hi": [
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-7/mathematics/" },
+        { "title": "विज्ञान", "url": "https://upboardbooks.com/category/class-7/science/" },
+        { "title": "सामाजिक अध्ययन", "url": "https://upboardbooks.com/category/class-7/social-studies/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-7/english/" },
+        { "title": "हिंदी", "url": "https://upboardbooks.com/category/class-7/hindi/" },
+        { "title": "संस्कृत", "url": "https://upboardbooks.com/category/class-7/sanskrit/" },
+        { "title": "उर्दू", "url": "https://upboardbooks.com/category/class-7/urdu/" }
+      ]
+    }
+  },
+  {
+    "class": 8,
+    "languages": {
+      "en": [
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-8/mathematics/" },
+        { "title": "Science", "url": "https://upboardbooks.com/category/class-8/science/" },
+        { "title": "Social Science", "url": "https://upboardbooks.com/category/class-8/social-studies/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-8/english/" },
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-8/hindi/" },
+        { "title": "Sanskrit", "url": "https://upboardbooks.com/category/class-8/sanskrit/" },
+        { "title": "Urdu", "url": "https://upboardbooks.com/category/class-8/urdu/" }
+      ],
+      "hi": [
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-8/mathematics/" },
+        { "title": "विज्ञान", "url": "https://upboardbooks.com/category/class-8/science/" },
+        { "title": "सामाजिक अध्ययन", "url": "https://upboardbooks.com/category/class-8/social-studies/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-8/english/" },
+        { "title": "हिंदी", "url": "https://upboardbooks.com/category/class-8/hindi/" },
+        { "title": "संस्कृत", "url": "https://upboardbooks.com/category/class-8/sanskrit/" },
+        { "title": "उर्दू", "url": "https://upboardbooks.com/category/class-8/urdu/" }
+      ]
+    }
+  },
+  {
+    "class": 9,
+    "languages": {
+      "en": [
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-9/mathematics/" },
+        { "title": "Science", "url": "https://upboardbooks.com/category/class-9/science/" },
+        { "title": "Social Science", "url": "https://upboardbooks.com/category/class-9/social-studies/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-9/english/" },
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-9/hindi/" },
+        { "title": "Sanskrit", "url": "https://upboardbooks.com/category/class-9/sanskrit/" },
+        { "title": "Urdu", "url": "https://upboardbooks.com/category/class-9/urdu/" },
+        { "title": "Computer / ICT", "url": "https://upboardbooks.com/category/class-9/computer/" }
+      ],
+      "hi": [
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-9/mathematics/" },
+        { "title": "विज्ञान", "url": "https://upboardbooks.com/category/class-9/science/" },
+        { "title": "सामाजिक अध्ययन", "url": "https://upboardbooks.com/category/class-9/social-studies/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-9/english/" },
+        { "title": "हिंदी", "url": "https://upboardbooks.com/category/class-9/hindi/" },
+        { "title": "संस्कृत", "url": "https://upboardbooks.com/category/class-9/sanskrit/" },
+        { "title": "उर्दू", "url": "https://upboardbooks.com/category/class-9/urdu/" },
+        { "title": "कम्प्यूटर / आईसीटी", "url": "https://upboardbooks.com/category/class-9/computer/" }
       ]
     }
   },
@@ -20,34 +198,50 @@
     "class": 10,
     "languages": {
       "en": [
-        {
-          "title": "Class 10 Resources (Official)",
-          "url": "https://upmsp.edu.in/"
-        }
+        { "title": "Mathematics", "url": "https://upboardbooks.com/category/class-10/mathematics/" },
+        { "title": "Science", "url": "https://upboardbooks.com/category/class-10/science/" },
+        { "title": "Social Science", "url": "https://upboardbooks.com/category/class-10/social-studies/" },
+        { "title": "English", "url": "https://upboardbooks.com/category/class-10/english/" },
+        { "title": "Hindi", "url": "https://upboardbooks.com/category/class-10/hindi/" },
+        { "title": "Sanskrit", "url": "https://upboardbooks.com/category/class-10/sanskrit/" },
+        { "title": "Urdu", "url": "https://upboardbooks.com/category/class-10/urdu/" },
+        { "title": "Computer / ICT", "url": "https://upboardbooks.com/category/class-10/computer/" },
+        { "title": "Home Science", "url": "https://upboardbooks.com/category/class-10/home-science/" }
       ],
       "hi": [
-        {
-          "title": "कक्षा 10 संसाधन (आधिकारिक)",
-          "url": "https://upmsp.edu.in/"
-        }
+        { "title": "गणित", "url": "https://upboardbooks.com/category/class-10/mathematics/" },
+        { "title": "विज्ञान", "url": "https://upboardbooks.com/category/class-10/science/" },
+        { "title": "सामाजिक अध्ययन", "url": "https://upboardbooks.com/category/class-10/social-studies/" },
+        { "title": "अंग्रेज़ी", "url": "https://upboardbooks.com/category/class-10/english/" },
+        { "title": "हिंदी", "url": "https://upboardbooks.com/category/class-10/hindi/" },
+        { "title": "संस्कृत", "url": "https://upboardbooks.com/category/class-10/sanskrit/" },
+        { "title": "उर्दू", "url": "https://upboardbooks.com/category/class-10/urdu/" },
+        { "title": "कम्प्यूटर / आईसीटी", "url": "https://upboardbooks.com/category/class-10/computer/" },
+        { "title": "गृह विज्ञान", "url": "https://upboardbooks.com/category/class-10/home-science/" }
       ]
     }
   },
   {
-    "class": 12,
-    "languages": {
-      "en": [
-        {
-          "title": "Class 12 Resources (Official)",
-          "url": "https://upmsp.edu.in/"
-        }
-      ],
-      "hi": [
-        {
-          "title": "कक्षा 12 संसाधन (आधिकारिक)",
-          "url": "https://upmsp.edu.in/"
-        }
-      ]
-    }
+  "class": 11,
+  "languages": {
+    "en": [
+      { "title": "All Subjects (Class 11)", "url": "https://upboardbooks.com/category/class-11/" }
+    ],
+    "hi": [
+      { "title": "सभी विषय (कक्षा 11)", "url": "https://upboardbooks.com/category/class-11/" }
+    ]
   }
+},
+{
+  "class": 12,
+  "languages": {
+    "en": [
+      { "title": "All Subjects (Class 12)", "url": "https://upboardbooks.com/category/class-12/" }
+    ],
+    "hi": [
+      { "title": "सभी विषय (कक्षा 12)", "url": "https://upboardbooks.com/category/class-12/" }
+    ]
+  }
+}
+
 ]

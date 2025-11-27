@@ -53,10 +53,9 @@ const VoiceAssistant: React.FC = () => {
 
     // Detect script → choose language code
     let lang: string = "en-IN";
-    if (/[\u0900-\u097F]/.test(text)) lang = "hi-IN";      // Devanagari
+    if (/[\u0900-\u097F]/.test(text)) lang = "hi-IN";      // Devanagari (Hindi/Marathi)
     else if (/[\u0980-\u09FF]/.test(text)) lang = "bn-IN"; // Bengali
     else if (/[\u0C00-\u0C7F]/.test(text)) lang = "te-IN"; // Telugu
-    else if (/[\u0900-\u097F]/.test(text)) lang = "mr-IN"; // Marathi (also Devanagari)
     else if (/[\u0D80-\u0DFF]/.test(text)) lang = "ta-IN"; // Tamil
     else if (/[\u0A80-\u0AFF]/.test(text)) lang = "gu-IN"; // Gujarati
     else if (/[\u0C80-\u0CFF]/.test(text)) lang = "kn-IN"; // Kannada
@@ -87,7 +86,10 @@ const VoiceAssistant: React.FC = () => {
   // ---------- ASK BACKEND ----------
   const askAssistant = async (text: string) => {
     setLoading(true);
-    const newMessages: ChatMessage[] = [...messages, { role: "user", content: text }];
+    const newMessages: ChatMessage[] = [
+      ...messages,
+      { role: "user", content: text },
+    ];
     setMessages(newMessages);
 
     const res = await fetch("/api/assistant", {
@@ -95,8 +97,8 @@ const VoiceAssistant: React.FC = () => {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         question: text,
-        history: newMessages
-      })
+        history: newMessages,
+      }),
     });
 
     const data = await res.json();
@@ -119,10 +121,6 @@ const VoiceAssistant: React.FC = () => {
     }
 
     const recog = new SpeechRecognition();
-
-    // Choose recognition language
-    let lang = "en-IN";
-
     const uiLang = i18n.language || "en";
 
     const mapMicLangToLocale = (code: MicLang): string => {
@@ -132,7 +130,8 @@ const VoiceAssistant: React.FC = () => {
         case "hi":
           return "hi-IN";
         case "bn":
-          return "bn-IN";
+          // Many browsers handle bn-BD better than bn-IN
+          return "bn-BD";
         case "te":
           return "te-IN";
         case "mr":
@@ -155,9 +154,8 @@ const VoiceAssistant: React.FC = () => {
           return "ur-IN";
         case "auto":
         default:
-          // Auto: guess from UI language
           if (uiLang.startsWith("hi")) return "hi-IN";
-          if (uiLang.startsWith("bn")) return "bn-IN";
+          if (uiLang.startsWith("bn")) return "bn-BD";
           if (uiLang.startsWith("te")) return "te-IN";
           if (uiLang.startsWith("mr")) return "mr-IN";
           if (uiLang.startsWith("ta")) return "ta-IN";
@@ -172,19 +170,40 @@ const VoiceAssistant: React.FC = () => {
       }
     };
 
-    lang = mapMicLangToLocale(micLang);
-    recog.lang = lang;
+    recog.lang = mapMicLangToLocale(micLang);
     recog.interimResults = false;
 
     recog.onstart = () => setListening(true);
     recog.onend = () => setListening(false);
+
     recog.onerror = () => {
       setListening(false);
-      console.warn("Speech recognition error");
+      setMessages((prev) => [
+        ...prev,
+        {
+          role: "assistant",
+          content:
+            "There was a problem with speech recognition. Please try again or type your question.",
+        },
+      ]);
     };
 
     recog.onresult = (event: any) => {
-      const transcript = event.results[0][0].transcript;
+      const transcript = (event.results[0][0].transcript || "").trim();
+
+      // Ignore very short / unclear audio
+      if (!transcript || transcript.length < 2) {
+        setMessages((prev) => [
+          ...prev,
+          {
+            role: "assistant",
+            content:
+              "I couldn't hear that clearly. Please try again or type your question.",
+          },
+        ]);
+        return;
+      }
+
       askAssistant(transcript);
     };
 

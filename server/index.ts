@@ -9,7 +9,14 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
+// ------------------------------------
+// Gemini setup
+// ------------------------------------
+const apiKey = process.env.GEMINI_API_KEY;
+if (!apiKey) {
+  console.warn("⚠️ GEMINI_API_KEY is not set. EduBetter assistant replies will fail.");
+}
+const genAI = new GoogleGenerativeAI(apiKey || "");
 
 // ------------------------------------
 // Load EduBetter data
@@ -36,63 +43,89 @@ const LANG_LABEL_MAP: Record<string, string> = {
   kn: "Kannada",
   ml: "Malayalam",
   ta: "Tamil",
+  mr: "Marathi",
+  as: "Assamese",
+  ur: "Urdu",
 };
 
 // ------------------------------------
-// 1) Script-based quick detector
+// 1) Script-based detector
 // ------------------------------------
 function detectLanguageByScript(text: string): string | null {
-  if (/[\u0900-\u097F]/.test(text)) return "hi"; // Devanagari (Hindi/Marathi)
-  if (/[\u0980-\u09FF]/.test(text)) return "bn"; // Bengali
+  if (/[\u0900-\u097F]/.test(text)) return "hi"; // Devanagari (Hindi/Marathi/etc.)
+  if (/[\u0980-\u09FF]/.test(text)) return "bn"; // Bengali/Assamese
   if (/[\u0A80-\u0AFF]/.test(text)) return "gu"; // Gujarati
-  if (/[\u0A00-\u0A7F]/.test(text)) return "pa"; // Punjabi
+  if (/[\u0A00-\u0A7F]/.test(text)) return "pa"; // Gurmukhi (Punjabi)
   if (/[\u0B00-\u0B7F]/.test(text)) return "or"; // Odia
   if (/[\u0C00-\u0C7F]/.test(text)) return "te"; // Telugu
   if (/[\u0C80-\u0CFF]/.test(text)) return "kn"; // Kannada
   if (/[\u0D00-\u0D7F]/.test(text)) return "ml"; // Malayalam
   if (/[\u0D80-\u0DFF]/.test(text)) return "ta"; // Tamil
-
-  return null; // no clear script
+  if (/[\u0600-\u06FF]/.test(text)) return "ur"; // Arabic script (Urdu)
+  return null;
 }
 
 // ------------------------------------
-// 2) Gemini-based detector for Latin text
-//    (handles romanised Hindi etc.)
+// 2) Lightweight offline language detector
+//    (handles Hinglish / romanised forms)
 // ------------------------------------
-async function detectLanguageWithGemini(question: string): Promise<string> {
-  const quick = detectLanguageByScript(question);
-  if (quick) return quick;
+function detectLanguage(question: string): string {
+  const byScript = detectLanguageByScript(question);
+  if (byScript) return byScript;
 
-  const detectorModel = genAI.getGenerativeModel({
-    model: "gemini-2.0-flash",
-  });
+  const lower = question.toLowerCase();
 
-  const prompt = `
-You are a language detection tool.
+  // Very rough Hinglish patterns → treat as Hindi
+  const romanHindiPatterns = [
+    "mujhe ",
+    "mujko ",
+    "tum ",
+    "tumhara",
+    "aap ",
+    "kaun ho",
+    "kya hai",
+    "kyu ",
+    "kyun ",
+    "batao",
+    "ke bare me",
+    "ke baare me",
+    "scholarship ke bare",
+    "scholarship ke baare",
+  ];
 
-Given the user's text, respond with ONLY a two-letter ISO 639-1 language code
-from this list: en, hi, bn, gu, pa, or, te, kn, ml, ta.
+  if (romanHindiPatterns.some((p) => lower.includes(p))) {
+    return "hi";
+  }
 
-Rules:
-- If the text is proper English, respond "en".
-- If the text is Hindi, including romanized Hindi written in Latin letters
-  like "mujhe scholarship ke bare me" or "tum kaun ho", respond "hi".
-- If the text mixes English and Hindi but mostly Hindi, respond "hi".
-- If the text is mostly English with a few Indian words, respond "en".
+  // Simple roman Bengali hint (totally optional)
+  const romanBengaliPatterns = [
+    "ami ",
+    "tumi ",
+    "tomar ",
+    "kichu ",
+    "jante chai",
+    "jante chahi",
+  ];
+  if (romanBengaliPatterns.some((p) => lower.includes(p))) {
+    return "bn";
+  }
 
-Text:
-"""${question}"""
-`.trim();
+  // Simple roman Tamil hint
+  const romanTamilPatterns = [
+    "enna ",
+    "enaku ",
+    "enakku ",
+    "enakku scholarship",
+    "scholarship patri",
+    "scholarship pathi",
+    "scholarship patti",
+    "eppadi",
+  ];
+  if (romanTamilPatterns.some((p) => lower.includes(p))) {
+    return "ta";
+  }
 
-  const result = await detectorModel.generateContent([{ text: prompt }]);
-  const raw = (await result.response.text()).trim().toLowerCase();
-
-  // Take just first token, make sure it's valid
-  const code = raw.split(/[^a-z]/)[0]; // first word-like token
-  const allowed = Object.keys(LANG_LABEL_MAP);
-  if (allowed.includes(code)) return code;
-
-  return "en"; // safe fallback
+  return "en"; // default
 }
 
 // ------------------------------------
@@ -121,17 +154,27 @@ function findRelevant(question: string) {
 // ------------------------------------
 app.post("/api/assistant", async (req: Request, res: Response) => {
   try {
-    const { question, history = [] } = req.body || {};
-    if (!question) {
-      return res.status(400).json({ answer: "No question provided." });
+    const { question } = req.body || {};
+    if (!question || typeof question !== "string" || !question.trim()) {
+      return res.json({
+        answer:
+          "I couldn't hear anything. Please try again or type your question.",
+      });
     }
 
+    const cleanQuestion = question.trim();
     const { relevantSchemes, relevantBooks, relevantExams } =
-      findRelevant(question);
+      findRelevant(cleanQuestion);
 
-    // Detect language (script + Gemini)
-    const langCode = await detectLanguageWithGemini(question);
+    const langCode = detectLanguage(cleanQuestion);
     const langLabel = LANG_LABEL_MAP[langCode] || "English";
+
+    if (!apiKey) {
+      return res.json({
+        answer:
+          "The EduBetter assistant is not configured with an API key yet, so I can't answer right now.",
+      });
+    }
 
     const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
@@ -150,12 +193,10 @@ LANGUAGE RULE:
 - The user's question language is: ${langLabel} (code: ${langCode}).
 - ALWAYS answer ONLY in ${langLabel}.
 - Never mix languages in one answer.
-- If the language is Hindi (hi), always answer in NATURAL Hindi using
-  Devanagari script, even if the user wrote Hindi using Latin letters
-  (Hinglish) like "aap kaun ho" or "mujhe scholarship ke bare me batao".
+- If the language is Hindi (hi), answer in natural Hindi using Devanagari script,
+  even if the user wrote in Latin letters (Hinglish).
 - If the language is English (en), answer in English.
-- If the language is another Indian language (bn, gu, pa, or, te, kn, ml, ta),
-  answer in that language's normal script.
+- For other codes (bn, gu, pa, or, te, kn, ml, ta, mr, as, ur) answer in that language's normal script.
 
 ANSWERING RULES:
 1. If the user asks general questions like:
@@ -166,11 +207,25 @@ ANSWERING RULES:
    Use ABOUT_EDUBETTER and your general knowledge to explain in simple words,
    in the detected language.
 
-2. For specific lookups (class, state, board, subject), use the structured DATA below.
+2. If the user asks about scholarships in general (without a very specific scheme name),
+   or the question is a bit vague (for example "scholarship uplabdhi biswas janna chaho",
+   "scholarship ke bare me batao"), treat it as a general question and give a helpful,
+   high-level explanation about how scholarships work and how EduBetter can help.
 
-3. ONLY if the user asks for a specific scholarship / book / exam detail
-   that is NOT present in the DATA, reply:
-   "This information is not available on EduBetter yet."
+3. If the user clearly mentions a specific named scholarship and that scholarship
+   (or a very similar name) appears in SCHEMES, then:
+   - Describe that scholarship in simple language.
+   - Mention who it is for (class, category, state) and key benefits.
+   - Tell the student how they can apply (from the data if available).
+
+4. ONLY if the user clearly asks for a specific scholarship / book / exam detail
+   that is NOT present in the DATA, then:
+   - First, say this one line in the detected language:
+     "This information is not available on EduBetter yet."
+   - THEN, in the same answer, add 2-3 helpful sentences suggesting what the student
+     can do next (for example: check the National Scholarship Portal, state scholarship
+     portal, official board/college website, or ask a teacher), instead of stopping
+     at just that one line.
 
 DATA:
 SCHEMES:
@@ -183,7 +238,7 @@ EXAM_DATES:
 ${JSON.stringify(relevantExams).slice(0, 4000)}
 
 USER QUESTION:
-${question}
+${cleanQuestion}
 `.trim();
 
     const result = await model.generateContent([{ text: prompt }]);
@@ -191,9 +246,24 @@ ${question}
     const answer = response.text();
 
     res.json({ answer });
-  } catch (err) {
-    console.error(err);
-    res.json({ answer: "Sorry, there was an error talking to Gemini." });
+  } catch (err: any) {
+    console.error("❌ EduBetter assistant error:", err);
+    let message =
+      "Sorry, I had a technical problem while talking to Gemini. Please try again in a moment.";
+
+    if (err && typeof err === "object" && "message" in err) {
+      const msg = String((err as any).message || "");
+      if (msg.toLowerCase().includes("api key")) {
+        message =
+          "The EduBetter assistant's API key seems to be misconfigured. Please ask the maintainer to check GEMINI_API_KEY.";
+      }
+      if (msg.toLowerCase().includes("rate") && msg.toLowerCase().includes("limit")) {
+        message =
+          "I'm getting a lot of requests right now and hit the rate limit. Please wait a bit and try again.";
+      }
+    }
+
+    res.json({ answer: message });
   }
 });
 

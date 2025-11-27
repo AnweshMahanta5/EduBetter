@@ -1,0 +1,158 @@
+[
+  {
+    "class": 1,
+    "items": [
+      {
+        "title": "NCERT Class 1 Math (Math Magic)",
+        "url": "https://ncert.nic.in/textbook/pdf/aejm1dd.zip"
+      },
+      {
+        "title": "NCERT Class 1 English (Marigold)",
+        "url": "https://ncert.nic.in/textbook/pdf/aeen1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 2,
+    "items": [
+      {
+        "title": "NCERT Class 2 Math (Math Magic)",
+        "url": "https://ncert.nic.in/textbook/pdf/bejm1dd.zip"
+      },
+      {
+        "title": "NCERT Class 2 English (Marigold)",
+        "url": "https://ncert.nic.in/textbook/pdf/been1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 3,
+    "items": [
+      {
+        "title": "NCERT Class 3 Math (Math Magic)",
+        "url": "https://ncert.nic.in/textbook/pdf/cejm1dd.zip"
+      },
+      {
+        "title": "NCERT Class 3 EVS (Looking Around)",
+        "url": "https://ncert.nic.in/textbook/pdf/ceev1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 4,
+    "items": [
+      {
+        "title": "NCERT Class 4 Math (Math Magic)",
+        "url": "https://ncert.nic.in/textbook/pdf/dejm1dd.zip"
+      },
+      {
+        "title": "NCERT Class 4 EVS (Looking Around)",
+        "url": "https://ncert.nic.in/textbook/pdf/deev1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 5,
+    "items": [
+      {
+        "title": "NCERT Class 5 EVS",
+        "url": "https://ncert.nic.in/textbook/pdf/eehv1dd.zip"
+      },
+      {
+        "title": "NCERT Class 5 Maths",
+        "url": "https://ncert.nic.in/textbook/pdf/emhm1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "items": [
+      {
+        "title": "NCERT Class 6 Science",
+        "url": "https://ncert.nic.in/textbook/pdf/fesc1dd.zip"
+      },
+      {
+        "title": "NCERT Class 6 Maths",
+        "url": "https://ncert.nic.in/textbook/pdf/femh1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 7,
+    "items": [
+      {
+        "title": "NCERT Class 7 Science",
+        "url": "https://ncert.nic.in/textbook/pdf/gesc1dd.zip"
+      },
+      {
+        "title": "NCERT Class 7 Maths",
+        "url": "https://ncert.nic.in/textbook/pdf/gemh1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 8,
+    "items": [
+      {
+        "title": "NCERT Class 8 Science",
+        "url": "https://ncert.nic.in/textbook/pdf/hesc1dd.zip"
+      },
+      {
+        "title": "NCERT Class 8 Maths",
+        "url": "https://ncert.nic.in/textbook/pdf/hemh1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "items": [
+      {
+        "title": "Jharkhand Board Class 9 Science",
+        "url": "https://jac.jharkhand.gov.in/jac/ncert/Class-IX-Science.pdf"
+      },
+      {
+        "title": "Jharkhand Board Class 9 Math",
+        "url": "https://jac.jharkhand.gov.in/jac/ncert/Class-IX-Maths.pdf"
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "items": [
+      {
+        "title": "NCERT Class 10 Science",
+        "url": "https://ncert.nic.in/textbook/pdf/jesc1dd.zip"
+      },
+      {
+        "title": "NCERT Class 10 Maths",
+        "url": "https://ncert.nic.in/textbook/pdf/jemh1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "items": [
+      {
+        "title": "NCERT Class 11 Physics Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/kepy1dd.zip"
+      },
+      {
+        "title": "NCERT Class 11 Chemistry Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/kech1dd.zip"
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "items": [
+      {
+        "title": "NCERT Class 12 Physics Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/leep1dd.zip"
+      },
+      {
+        "title": "NCERT Class 12 Chemistry Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/lech1dd.zip"
+      }
+    ]
+  }
+]

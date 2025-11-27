@@ -1,0 +1,706 @@
+[
+  {
+    "id": "CBSE10_SANSKRIT_2024",
+    "board": "CBSE",
+    "class": 10,
+    "subject": "Sanskrit",
+    "examDate": "2024-02-19",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE10_HINDI_2024",
+    "board": "CBSE",
+    "class": 10,
+    "subject": "Hindi (Course A/B)",
+    "examDate": "2024-02-21",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE10_ENGLISH_2024",
+    "board": "CBSE",
+    "class": 10,
+    "subject": "English (Language & Literature)",
+    "examDate": "2024-02-26",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE10_SCIENCE_2024",
+    "board": "CBSE",
+    "class": 10,
+    "subject": "Science",
+    "examDate": "2024-03-02",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE10_SOCIALSCIENCE_2024",
+    "board": "CBSE",
+    "class": 10,
+    "subject": "Social Science",
+    "examDate": "2024-03-07",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE10_MATH_2024",
+    "board": "CBSE",
+    "class": 10,
+    "subject": "Mathematics (Standard / Basic)",
+    "examDate": "2024-03-11",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "CBSE12_HINDI_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Hindi (Core / Elective)",
+    "examDate": "2024-02-19",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_ENGLISH_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "English (Core / Elective)",
+    "examDate": "2024-02-22",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_CHEMISTRY_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Chemistry",
+    "examDate": "2024-02-27",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_PHYSICS_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Physics",
+    "examDate": "2024-03-04",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_MATH_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Mathematics / Applied Mathematics",
+    "examDate": "2024-03-09",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_PHYSICAL_EDU_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Physical Education",
+    "examDate": "2024-03-12",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_BIOLOGY_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Biology",
+    "examDate": "2024-03-19",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CBSE12_COMPUTER_2024",
+    "board": "CBSE",
+    "class": 12,
+    "subject": "Computer Science / Informatics Practices / IT",
+    "examDate": "2024-04-02",
+    "officialUrl": "https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_XII_Revised_03012024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "ICSE10_ENGLISH1_2024",
+    "board": "ICSE",
+    "class": 10,
+    "subject": "English Paper 1 (Language)",
+    "examDate": "2024-02-21",
+    "officialUrl": "https://cisce.org/wp-content/uploads/2023/12/ICSE_2024_Time_Table_Final.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ICSE10_ENGLISH2_2024",
+    "board": "ICSE",
+    "class": 10,
+    "subject": "English Paper 2 (Literature)",
+    "examDate": "2024-02-23",
+    "officialUrl": "https://cisce.org/wp-content/uploads/2023/12/ICSE_2024_Time_Table_Final.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ICSE10_MATH_2024",
+    "board": "ICSE",
+    "class": 10,
+    "subject": "Mathematics",
+    "examDate": "2024-03-16",
+    "officialUrl": "https://cisce.org/wp-content/uploads/2023/12/ICSE_2024_Time_Table_Final.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ICSE10_BIOLOGY_2024",
+    "board": "ICSE",
+    "class": 10,
+    "subject": "Biology – Science Paper 3",
+    "examDate": "2024-03-18",
+    "officialUrl": "https://cisce.org/wp-content/uploads/2023/12/ICSE_2024_Time_Table_Final.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ICSE10_HINDI_2024",
+    "board": "ICSE",
+    "class": 10,
+    "subject": "Hindi",
+    "examDate": "2024-03-20",
+    "officialUrl": "https://cisce.org/wp-content/uploads/2023/12/ICSE_2024_Time_Table_Final.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ICSE10_ENVSCI_2024",
+    "board": "ICSE",
+    "class": 10,
+    "subject": "Environmental Science",
+    "examDate": "2024-03-22",
+    "officialUrl": "https://cisce.org/wp-content/uploads/2023/12/ICSE_2024_Time_Table_Final.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "ISC12_ENGLISH1_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "English Paper 1 (Language)",
+    "examDate": "2024-02-12",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_ENGLISH2_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "English Paper 2 (Literature)",
+    "examDate": "2024-02-13",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_MATH_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "Mathematics",
+    "examDate": "2024-02-20",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_ECONOMICS_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "Economics",
+    "examDate": "2024-02-23",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_CHEMISTRY_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "Chemistry – Paper 1 (Theory)",
+    "examDate": "2024-02-26",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_PHYSICS_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "Physics – Paper 1 (Theory)",
+    "examDate": "2024-03-04",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_BIOLOGY_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "Biology – Paper 1 (Theory)",
+    "examDate": "2024-03-15",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "ISC12_COMPUTER_2024",
+    "board": "ICSE",
+    "class": 12,
+    "subject": "Computer Science – Paper 1 (Theory)",
+    "examDate": "2024-03-18",
+    "officialUrl": "https://nhes.ac.in/notice/ISC_TIME_TABLE%202024.pdf",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "JAC10_SOCIALSCIENCE_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 10,
+    "subject": "Social Science",
+    "examDate": "2024-03-18",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "JAC10_HINDI_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 10,
+    "subject": "Hindi",
+    "examDate": "2024-03-21",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "JAC10_MATH_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 10,
+    "subject": "Mathematics",
+    "examDate": "2024-03-24",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "JAC10_SCIENCE_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 10,
+    "subject": "Science",
+    "examDate": "2024-03-27",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "JAC10_ENGLISH_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 10,
+    "subject": "English",
+    "examDate": "2024-03-29",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "JAC12_ALLSTREAMS_START_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 12,
+    "subject": "All streams – theory exams begin",
+    "examDate": "2024-02-06",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "JAC12_ALLSTREAMS_END_2024",
+    "board": "STATE",
+    "stateCode": "JH",
+    "class": 12,
+    "subject": "All streams – theory exams end",
+    "examDate": "2024-02-26",
+    "officialUrl": "https://jac.jharkhand.gov.in/jac/",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "MH_SSC_2024",
+    "board": "STATE",
+    "stateCode": "MH",
+    "class": 10,
+    "subject": "All subjects – SSC timetable",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://mahahsscboard.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "MH_HSC_2024",
+    "board": "STATE",
+    "stateCode": "MH",
+    "class": 12,
+    "subject": "All subjects – HSC timetable",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://mahahsscboard.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "UP_HIGHSCHOOL_2024",
+    "board": "STATE",
+    "stateCode": "UP",
+    "class": 10,
+    "subject": "All subjects – High School",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://upmsp.edu.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "UP_INTERMEDIATE_2024",
+    "board": "STATE",
+    "stateCode": "UP",
+    "class": 12,
+    "subject": "All subjects – Intermediate",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://upmsp.edu.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "BR_MATRIC_2024",
+    "board": "STATE",
+    "stateCode": "BR",
+    "class": 10,
+    "subject": "All subjects – Matric exam",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://biharboardonline.bihar.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "BR_INTER_2024",
+    "board": "STATE",
+    "stateCode": "BR",
+    "class": 12,
+    "subject": "All subjects – Intermediate exam",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://biharboardonline.bihar.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "RJ_SECONDARY_2024",
+    "board": "STATE",
+    "stateCode": "RJ",
+    "class": 10,
+    "subject": "All subjects – Secondary exam",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://rajeduboard.rajasthan.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "RJ_SENIORSECONDARY_2024",
+    "board": "STATE",
+    "stateCode": "RJ",
+    "class": 12,
+    "subject": "All subjects – Senior Secondary exam",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://rajeduboard.rajasthan.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "GJ_SSC_2024",
+    "board": "STATE",
+    "stateCode": "GJ",
+    "class": 10,
+    "subject": "All subjects – SSC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://www.gseb.org",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "GJ_HSC_2024",
+    "board": "STATE",
+    "stateCode": "GJ",
+    "class": 12,
+    "subject": "All subjects – HSC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://www.gseb.org",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "TN_SSLC_2024",
+    "board": "STATE",
+    "stateCode": "TN",
+    "class": 10,
+    "subject": "All subjects – SSLC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://dge.tn.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "TN_HSC_2024",
+    "board": "STATE",
+    "stateCode": "TN",
+    "class": 12,
+    "subject": "All subjects – HSC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://dge.tn.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "KA_SSFH_2024",
+    "board": "STATE",
+    "stateCode": "KA",
+    "class": 10,
+    "subject": "All subjects – SSLC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://kseab.karnataka.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "KA_PUC_2024",
+    "board": "STATE",
+    "stateCode": "KA",
+    "class": 12,
+    "subject": "All subjects – II PUC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://kseab.karnataka.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "KL_SSLC_2024",
+    "board": "STATE",
+    "stateCode": "KL",
+    "class": 10,
+    "subject": "All subjects – SSLC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://keralapareekshabhavan.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "KL_HSE_2024",
+    "board": "STATE",
+    "stateCode": "KL",
+    "class": 12,
+    "subject": "All subjects – Higher Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://dhsekerala.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "WB_MADHYAMIK_2024",
+    "board": "STATE",
+    "stateCode": "WB",
+    "class": 10,
+    "subject": "All subjects – Madhyamik",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://wbbse.wb.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "WB_HS_2024",
+    "board": "STATE",
+    "stateCode": "WB",
+    "class": 12,
+    "subject": "All subjects – Higher Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://wbchse.wb.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "OR_HSC_2024",
+    "board": "STATE",
+    "stateCode": "OR",
+    "class": 10,
+    "subject": "All subjects – HSC (BSE Odisha)",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://www.bseodisha.ac.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "OR_CHSE_2024",
+    "board": "STATE",
+    "stateCode": "OR",
+    "class": 12,
+    "subject": "All subjects – CHSE",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://chseodisha.nic.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "TS_SSC_2024",
+    "board": "STATE",
+    "stateCode": "TS",
+    "class": 10,
+    "subject": "All subjects – SSC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://bse.telangana.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "TS_INTER_2024",
+    "board": "STATE",
+    "stateCode": "TS",
+    "class": 12,
+    "subject": "All subjects – Intermediate",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://tsbie.cgg.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "AP_SSC_2024",
+    "board": "STATE",
+    "stateCode": "AP",
+    "class": 10,
+    "subject": "All subjects – SSC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://www.bse.ap.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "AP_INTER_2024",
+    "board": "STATE",
+    "stateCode": "AP",
+    "class": 12,
+    "subject": "All subjects – Intermediate",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://bie.ap.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "MP_HSC_2024",
+    "board": "STATE",
+    "stateCode": "MP",
+    "class": 10,
+    "subject": "All subjects – High School",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://mpbse.nic.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "MP_HSSC_2024",
+    "board": "STATE",
+    "stateCode": "MP",
+    "class": 12,
+    "subject": "All subjects – Higher Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://mpbse.nic.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "HR_SECONDARY_2024",
+    "board": "STATE",
+    "stateCode": "HR",
+    "class": 10,
+    "subject": "All subjects – Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://bseh.org.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "HR_SENIORSECONDARY_2024",
+    "board": "STATE",
+    "stateCode": "HR",
+    "class": 12,
+    "subject": "All subjects – Senior Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://bseh.org.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "PB_MATRIC_2024",
+    "board": "STATE",
+    "stateCode": "PB",
+    "class": 10,
+    "subject": "All subjects – Matric",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://www.pseb.ac.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "PB_SENIORSECONDARY_2024",
+    "board": "STATE",
+    "stateCode": "PB",
+    "class": 12,
+    "subject": "All subjects – Senior Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://www.pseb.ac.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "CG_HS_2024",
+    "board": "STATE",
+    "stateCode": "CG",
+    "class": 10,
+    "subject": "All subjects – High School",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://cgbse.nic.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "CG_HSS_2024",
+    "board": "STATE",
+    "stateCode": "CG",
+    "class": 12,
+    "subject": "All subjects – Higher Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://cgbse.nic.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "AS_HSLC_2024",
+    "board": "STATE",
+    "stateCode": "AS",
+    "class": 10,
+    "subject": "All subjects – HSLC",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://sebaonline.org",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "AS_HS_2024",
+    "board": "STATE",
+    "stateCode": "AS",
+    "class": 12,
+    "subject": "All subjects – Higher Secondary",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://ahsec.assam.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+
+  {
+    "id": "UK_HIGHSCHOOL_2024",
+    "board": "STATE",
+    "stateCode": "UK",
+    "class": 10,
+    "subject": "All subjects – High School",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://ubse.uk.gov.in",
+    "lastUpdated": "2025-11-26"
+  },
+  {
+    "id": "UK_INTERMEDIATE_2024",
+    "board": "STATE",
+    "stateCode": "UK",
+    "class": 12,
+    "subject": "All subjects – Intermediate",
+    "examDate": "2024 exam period (see timetable)",
+    "officialUrl": "https://ubse.uk.gov.in",
+    "lastUpdated": "2025-11-26"
+  }
+]

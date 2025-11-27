@@ -1,0 +1,598 @@
+[
+  {
+    "class": 1,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Marigold Class 1)",
+          "url": "https://ncert.nic.in/textbook.php?aeen1"
+        },
+        {
+          "title": "Math (Math-Magic Class 1)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm1"
+        },
+        {
+          "title": "EVS (Looking Around)",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ],
+      "hi": [
+        {
+          "title": "हिन्दी (रिमझिम कक्षा 1)",
+          "url": "https://ncert.nic.in/textbook.php?hikr1"
+        },
+        {
+          "title": "गणित (कक्षा 1)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm1"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ]
+    }
+  },
+  {
+    "class": 2,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Marigold Class 2)",
+          "url": "https://ncert.nic.in/textbook.php?aeen2"
+        },
+        {
+          "title": "Math (Math-Magic Class 2)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm2"
+        },
+        {
+          "title": "EVS (Looking Around)",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ],
+      "hi": [
+        {
+          "title": "हिन्दी (रिमझिम कक्षा 2)",
+          "url": "https://ncert.nic.in/textbook.php?hikr2"
+        },
+        {
+          "title": "गणित (कक्षा 2)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm2"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ]
+    }
+  },
+  {
+    "class": 3,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Marigold Class 3)",
+          "url": "https://ncert.nic.in/textbook.php?aeen3"
+        },
+        {
+          "title": "Math (Math-Magic Class 3)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm3"
+        },
+        {
+          "title": "EVS (Looking Around)",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ],
+      "hi": [
+        {
+          "title": "हिन्दी (रिमझिम कक्षा 3)",
+          "url": "https://ncert.nic.in/textbook.php?hikr3"
+        },
+        {
+          "title": "गणित (कक्षा 3)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm3"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ]
+    }
+  },
+  {
+    "class": 4,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Marigold Class 4)",
+          "url": "https://ncert.nic.in/textbook.php?aeen4"
+        },
+        {
+          "title": "Math (Math-Magic Class 4)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm4"
+        },
+        {
+          "title": "EVS (Looking Around)",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ],
+      "hi": [
+        {
+          "title": "हिन्दी (रिमझिम कक्षा 4)",
+          "url": "https://ncert.nic.in/textbook.php?hikr4"
+        },
+        {
+          "title": "गणित (कक्षा 4)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm4"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ]
+    }
+  },
+  {
+    "class": 5,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Marigold Class 5)",
+          "url": "https://ncert.nic.in/textbook.php?aeen5"
+        },
+        {
+          "title": "Math (Math-Magic Class 5)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm5"
+        },
+        {
+          "title": "EVS (Looking Around)",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ],
+      "hi": [
+        {
+          "title": "हिन्दी (रिमझिम कक्षा 5)",
+          "url": "https://ncert.nic.in/textbook.php?hikr5"
+        },
+        {
+          "title": "गणित (कक्षा 5)",
+          "url": "https://ncert.nic.in/textbook.php?mmhm5"
+        },
+        {
+          "title": "पर्यावरण अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php?eeap0"
+        }
+      ]
+    }
+  },
+  {
+    "class": 6,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Social Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "सामाजिक विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  },
+  {
+    "class": 7,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Social Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "सामाजिक विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  },
+  {
+    "class": 8,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Social Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "सामाजिक विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  },
+  {
+    "class": 9,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Hindi",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Social Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "हिन्दी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "सामाजिक विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  },
+  {
+    "class": 10,
+    "languages": {
+      "en": [
+        {
+          "title": "English",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Hindi",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Social Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "हिन्दी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "सामाजिक विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  },
+  {
+    "class": 11,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Core)",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Physics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Biology",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Economics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "History",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Geography",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Political Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Accountancy",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Business Studies",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Psychology",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "भौतिकी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "रसायन",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "जीवविज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "अर्थशास्त्र",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "इतिहास",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "राजनीति विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "लेखाशास्त्र",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "व्यवसाय अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "मनोविज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  },
+  {
+    "class": 12,
+    "languages": {
+      "en": [
+        {
+          "title": "English (Core)",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Physics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Biology",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Economics",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "History",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Geography",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Political Science",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Accountancy",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Business Studies",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "Psychology",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "hi": [
+        {
+          "title": "अंग्रेज़ी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "गणित",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "भौतिकी",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "रसायन",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "जीवविज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "अर्थशास्त्र",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "इतिहास",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "भूगोल",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "राजनीति विज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "लेखाशास्त्र",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "व्यवसाय अध्ययन",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "title": "मनोविज्ञान",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ]
+    }
+  }
+]

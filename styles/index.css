@@ -1,15 +1,238 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* ---------------------------- */
+/*      GLOBAL VARIABLES        */
+/* ---------------------------- */
 :root {
-  --font-default: "Noto Sans", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --font-default: "Inter", "Noto Sans", system-ui, -apple-system, "Segoe UI",
+    Roboto, sans-serif;
+
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+
+  --brand-primary: #4f46e5; /* Indigo-600 */
+  --brand-secondary: #7c3aed; /* Purple-600 */
+  --brand-accent: #06b6d4; /* Cyan-500 */
+
+  --bg-soft: #f6f7fb;
+  --text-dark: #111827;
 }
 
-html, body, #root { height: 100%; }
+/* ----------------------------------------- */
+/*        BASE: Typography & smoothing       */
+/* ----------------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
 body {
   font-family: var(--font-default);
-  background: #f9fafb;
-  color: #111827;
+  background: linear-gradient(180deg, #f8faff 0%, #eef2ff 100%);
+  color: var(--text-dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ----------------------------------------- */
+/*           TEXT SELECTION COLOR            */
+/* ----------------------------------------- */
+::selection {
+  background: var(--brand-primary);
+  color: white;
+}
+
+/* ----------------------------------------- */
+/*          SMOOTH SCROLLBAR (Chrome)        */
+/* ----------------------------------------- */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e5e7eb;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--brand-primary);
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brand-secondary);
+}
+
+/* ----------------------------------------- */
+/*               LINK RESET                  */
+/* ----------------------------------------- */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ----------------------------------------- */
+/*       CARD GLASS / FLOATING UTILITIES     */
+/* ----------------------------------------- */
+.glass {
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.soft-shadow {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+}
+
+.hover-float {
+  transition: all 0.25s ease;
+}
+
+.hover-float:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+/* ----------------------------------------- */
+/*             BUTTON INTERACTIONS           */
+/* ----------------------------------------- */
+button,
+a {
+  position: relative;
+  cursor: pointer;
+}
+
+button:active,
+a:active {
+  transform: scale(0.97);
+  transition: transform 0.1s;
+}
+
+/* Ripple */
+button::after,
+a::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.35);
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: opacity 0.4s ease, width 0.4s ease, height 0.4s ease;
+}
+
+button:active::after,
+a:active::after {
+  opacity: 1;
+  width: 200px;
+  height: 200px;
+}
+
+/* ----------------------------------------- */
+/*      FADE / SLIDE / FLOAT ANIMATIONS      */
+/* ----------------------------------------- */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.7s ease forwards;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+.slide-up {
+  animation: slideUp 0.6s ease forwards;
+}
+
+/* used by Home.tsx hero/text */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.7s ease forwards;
+}
+
+/* floating cards on the hero illustration */
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 4s ease-in-out 0.8s infinite;
+}
+
+/* ----------------------------------------- */
+/*             INPUT / FORM STYLING          */
+/* ----------------------------------------- */
+input,
+select,
+textarea {
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--brand-primary) !important;
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.2);
+}
+
+/* ----------------------------------------- */
+/*         MOBILE OPTIMIZATION TOUCH         */
+/* ----------------------------------------- */
+@media (hover: none) {
+  .hover-float:hover {
+    transform: none;
+    box-shadow: none;
+  }
 }
